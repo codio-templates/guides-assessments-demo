@@ -1,0 +1,305 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-4179884427",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [
+     "natural",
+     "1",
+     "1",
+     "itself"
+    ],
+    "text": [
+     "A prime number (or a prime) is a ",
+     0,
+     " number greater than ",
+     0,
+     " that has no positive divisors other than ",
+     0,
+     " and ",
+     0,
+     "."
+    ]
+   },
+   "text": "A prime number (or a prime) is a <<<natural>>> number greater than <<<1>>> that has no positive divisors other than <<<1>>> and <<<itself>>>.",
+   "showValues": true,
+   "points": 1,
+   "instructions": "Complete the definition.",
+   "name": "Fill in the blanks (show possible values)"
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-539535015",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [
+     "natural",
+     "1",
+     "1",
+     "itself"
+    ],
+    "text": [
+     "A prime number (or a prime) is a ",
+     0,
+     " number greater than ",
+     0,
+     " that has no positive divisors other than ",
+     0,
+     " and ",
+     0,
+     "."
+    ]
+   },
+   "text": "A prime number (or a prime) is a <<<natural>>> number greater than <<<1>>> that has no positive divisors other than <<<1>>> and <<<itself>>>.",
+   "showValues": false,
+   "points": 1,
+   "instructions": "Complete the definition.",
+   "name": "Fill in the blanks (hide possible values)"
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3362447361",
+  "source": {
+   "showName": true,
+   "answers": [
+    {
+     "correct": true,
+     "answer": "1",
+     "_id": "56e003bd40f757f006946549"
+    },
+    {
+     "correct": true,
+     "answer": "2",
+     "_id": "56e003bd40f757f006946548"
+    },
+    {
+     "answer": "11",
+     "correct": false,
+     "_id": "56e003bd40f757f006946547"
+    },
+    {
+     "answer": "37",
+     "correct": false,
+     "_id": "56e003bd40f757f006946546"
+    }
+   ],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "multipleResponse": true,
+   "incorrectPoints": 0,
+   "points": 1,
+   "instructions": "Which numbers are not primes?",
+   "name": "MCQ with Multiple Responses "
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3851013076",
+  "source": {
+   "showName": true,
+   "answers": [
+    {
+     "correct": true,
+     "answer": "1",
+     "_id": "56e0037f89191cb269f5b60f"
+    },
+    {
+     "answer": "2",
+     "correct": false,
+     "_id": "56e0037f89191cb269f5b60e"
+    },
+    {
+     "answer": "11",
+     "correct": false,
+     "_id": "56e0037f89191cb269f5b60d"
+    }
+   ],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "multipleResponse": false,
+   "incorrectPoints": 0,
+   "points": 1,
+   "instructions": "Which number is not a prime?",
+   "name": "MCQ with Single Response"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-1487677191",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "./test2.sh",
+   "instructions": "Write a program that receives two numeric arguments, a and b, and outputs a single string with the value (a + b).",
+   "name": "test2"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-1883631226",
+  "source": {
+   "name": "Advanced Test (bash)",
+   "showName": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "instructions": "Write a program that receives two numeric arguments, a and b, and outputs a single string with the value \"Hello World \" + (a + b).",
+   "command": "./test1/test.sh",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3517184996",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "node test4.js",
+   "instructions": "Create an unordered list with 3 list items.",
+   "name": "Unordered lists"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-857809534",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "mocha test3.js",
+   "instructions": "JavaScript's Array.indexOf method should return -1 if no value is supplied. Complete the expected behaviour.",
+   "name": "JavaScript test using Mocha"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-4112607060",
+  "source": {
+   "name": "test c with python",
+   "showName": true,
+   "instructions": "Write a program that receives two numeric arguments, a and b, and outputs a single string with the value \"Hello World \" + (a + b).",
+   "command": "python test.py challenge5/challenge5.c",
+   "points": 10
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4008002669",
+  "source": {
+   "name": "RAM Question",
+   "showName": true,
+   "instructions": "What does RAM stand for?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "Random Access Mom",
+     "correct": false,
+     "_id": "68f56a96-e2c2-e41a-b2b7-96255b9b22a8"
+    },
+    {
+     "answer": "asdasd",
+     "correct": false,
+     "_id": "9689bf24-8f59-6aea-50a0-1c5982420771"
+    },
+    {
+     "answer": "asdasd",
+     "correct": false,
+     "_id": "e3e01ea8-8705-4c4c-ca0e-0bf59c616fd0"
+    },
+    {
+     "correct": true,
+     "answer": "Random Access Memory",
+     "_id": "ed89e3bf-b99a-d7e2-900c-52567352f6bc"
+    }
+   ]
+  }
+ },
+ {
+  "type": "code-output-compare",
+  "taskId": "code-output-compare-1166951360",
+  "source": {
+   "name": "Sort Me",
+   "showName": true,
+   "preExecuteCommand": "javac studentcodefolder/Sort.java",
+   "command": "java studentcodefolder/Sort",
+   "points": 1,
+   "oneTimeTest": false,
+   "instructions": "Write some code to sort an array of integers.",
+   "options": {
+    "ignoreCase": false,
+    "ignoreWhitespaces": true,
+    "ignoreNewline": true,
+    "timeout": 30
+   },
+   "sequence": [
+    {
+     "arguments": "12 7 15 3 1",
+     "input": "",
+     "output": "1 3 7 12 15"
+    },
+    {
+     "arguments": "",
+     "input": "Enter first name: Sarah\nEnter last name: Smithers",
+     "output": "Enter first name:\nEnter last name: \nSarah Smithers"
+    }
+   ]
+  }
+ },
+ {
+  "type": "code-output-compare",
+  "taskId": "code-output-compare-2313277420",
+  "source": {
+   "name": "Standard",
+   "showName": true,
+   "preExecuteCommand": "javac challenge1/Challenge.java",
+   "command": "java -classpath challenge1 Challenge",
+   "points": 1,
+   "oneTimeTest": false,
+   "instructions": "Write a program that receives two numeric arguments, a and b, and outputs a single string with the value \"Hello World \" + (a + b).",
+   "options": {
+    "ignoreCase": false,
+    "ignoreWhitespaces": true,
+    "ignoreNewline": true,
+    "timeout": 30
+   },
+   "sequence": [
+    {
+     "arguments": "1 4",
+     "input": "",
+     "output": "Hello World 5"
+    },
+    {
+     "arguments": "99 100",
+     "input": "",
+     "output": "Hello World 199"
+    }
+   ]
+  }
+ }
+]

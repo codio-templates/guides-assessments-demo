@@ -1,0 +1,273 @@
+{
+ "sections": [
+  {
+   "id": "77be67cd-91d5-1b47-4769-2a3fbd854a60",
+   "title": "Guide Basics",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "testlib.sh",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#terminal: ",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell-tree",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Guide-Basics-77be.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "3a1a0df7-af36-561d-e781-0addeef85350",
+   "title": "Auto Assessments",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Auto-Assessments-3a1a.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "5b4ddff-eb28-e6a7-bda6-5d91c0162fff",
+   "title": "MCQ & Fill in the Blanks",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#preview: https://en.wikipedia.org/wiki/Prime_number",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/MCQ---Fill-in-the-Blanks-5b4d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "095ac474-301b-1cd6-b39d-61200a5aa339",
+   "title": "Simple Autograding",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Simple-Autograding-095a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "5130a7ea-7014-9460-634c-644887d88a66",
+   "title": "Advanced Autograding",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "challenge1/Challenge.java",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "test1/test.sh",
+     "panel": 1,
+     "action": "open"
+    },
+    {
+     "path": "",
+     "panel": 0,
+     "ref": "",
+     "lineCount": null,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell-tree",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Advanced-Autograding-5130.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "284739f1-483e-a030-514d-dac319c3b72b",
+   "title": "HTML test",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "challenge4/challenge.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "test4.js",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell-tree",
+   "path": [
+    "challenge4"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/HTML-test-2847.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "703afcf9-092c-68c6-1c4a-f1efe4faf17b",
+   "title": "More ...",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/More-----703a.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "91bdcef6-a889-4e76-350c-de01d415edf",
+   "title": "Programming Languages",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: ",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "hello/makefile",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell-tree",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Programming-Languages-91bd.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "92cfd1ce-42e7-9a2c-a554-7e1e465bbfcc",
+   "title": "Creating a test framework",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "challenge2/Challenge.java",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "testlib.sh",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell-tree",
+   "path": [
+    "challenge2"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Creating-a-test-framework-92cf.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "3decb108-e74b-ddbc-6265-bf2f95adcfb8",
+   "title": "Using 3rd party testing libraries",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "challenge3/challenge.js",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "test3.js",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell-tree",
+   "path": [
+    "challenge3"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Using-3rd-party-testing-libraries-3dec.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "bf0ba8dd-6aa8-4e61-9b5e-6b319fb1bdd2",
+   "title": "C code tested with python assessment",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "challenge5/challenge5.c",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "test.py",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "challenge5"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/C-code-tested-with-python-assessment-bf0b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}

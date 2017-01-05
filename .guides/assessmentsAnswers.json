@@ -1,0 +1,445 @@
+[
+ {
+  "taskId": "fill-in-the-blanks-4179884427",
+  "points": 0,
+  "state": {
+   "active": [
+    "itself"
+   ]
+  },
+  "results": []
+ },
+ {
+  "taskId": "fill-in-the-blanks-539535015",
+  "points": 0,
+  "state": {
+   "active": []
+  },
+  "results": []
+ },
+ {
+  "taskId": "multiple-choice-3362447361",
+  "points": 0,
+  "state": {
+   "active": [
+    "56e003bd40f757f006946547",
+    "56e003bd40f757f006946548"
+   ]
+  },
+  "results": [
+   {
+    "current": [
+     "56e003bd40f757f006946547",
+     "56e003bd40f757f006946548"
+    ],
+    "right": [
+     "56e003bd40f757f006946549",
+     "56e003bd40f757f006946548"
+    ],
+    "timestamp": 1459866592521
+   }
+  ]
+ },
+ {
+  "taskId": "multiple-choice-3851013076",
+  "points": 0,
+  "state": {
+   "active": "56e0037f89191cb269f5b60e"
+  },
+  "results": []
+ },
+ {
+  "taskId": "test-1487677191",
+  "points": 0,
+  "results": [
+   {
+    "code": 1,
+    "output": "<h3>Program Output</h3>\n0\n<br/><hr/><h3>Challenge Feedback</h3>\nYour code is not outputing the correct value",
+    "timestamp": 1458060874354
+   }
+  ]
+ },
+ {
+  "taskId": "test-1883631226",
+  "points": 1,
+  "results": [
+   {
+    "code": 0,
+    "output": "<h3>Program Output</h3>\nHello World 3\n<br/><hr/><h3>Challenge Feedback</h3>\nWell done you passed the challenge!",
+    "timestamp": 1483622643507
+   },
+   {
+    "code": 0,
+    "output": "<h3>Program Output</h3>\nHello World 3\n<br/><hr/><h3>Challenge Feedback</h3>\nWell done you passed the challenge!",
+    "timestamp": 1470235008586
+   },
+   {
+    "code": 0,
+    "output": "<h3>Program Output</h3>\nHello World 3\n<br/><hr/><h3>Challenge Feedback</h3>\nWell done you passed the challenge!",
+    "timestamp": 1469525743911
+   },
+   {
+    "code": 0,
+    "output": "<h3>Program Output</h3>\nHello World 3\n<br/><hr/><h3>Challenge Feedback</h3>\nWell done you passed the challenge!",
+    "timestamp": 1469187204906
+   },
+   {
+    "code": 1,
+    "output": "<h3>Program Output</h3>\nHellx World 3\n<br/><hr/><h3>Challenge Feedback</h3>\nYour code is not outputing the correct value",
+    "timestamp": 1469187190252
+   },
+   {
+    "code": 0,
+    "output": "<h3>Program Output</h3>\nHello World 3\n<br/><hr/><h3>Challenge Feedback</h3>\nWell done you passed the challenge!",
+    "timestamp": 1469187179535
+   },
+   {
+    "code": 0,
+    "output": "<h3>Program Output</h3>\nHello World 3\n<br/><hr/><h3>Challenge Feedback</h3>\nWell done you passed the challenge!",
+    "timestamp": 1468923979631
+   },
+   {
+    "code": 0,
+    "output": "<h3>Program Output</h3>\nHello World 3\n<br/><hr/><h3>Challenge Feedback</h3>\nWell done you passed the challenge!",
+    "timestamp": 1468579078149
+   },
+   {
+    "code": 0,
+    "output": "<h3>Program Output</h3>\nHello World 3\n<br/><hr/><h3>Challenge Feedback</h3>\nWell done you passed the challenge!",
+    "timestamp": 1467816033659
+   },
+   {
+    "code": 0,
+    "output": "<h3>Program Output</h3>\nHello World 3\n<br/><hr/><h3>Challenge Feedback</h3>\nWell done you passed the challenge!",
+    "timestamp": 1466506022999
+   },
+   {
+    "code": 1,
+    "output": "<h3>Program Output</h3>\nHello Worldx 3\n<br/><hr/><h3>Challenge Feedback</h3>\nYour code is not outputing the correct value",
+    "timestamp": 1466506011124
+   },
+   {
+    "code": 0,
+    "output": "<h3>Program Output</h3>\nHello World 3\n<br/><hr/><h3>Challenge Feedback</h3>\nWell done you passed the challenge!",
+    "timestamp": 1466505997325
+   },
+   {
+    "code": 0,
+    "output": "<h3>Program Output</h3>\nHello World 3\n<br/><hr/><h3>Challenge Feedback</h3>\nWell done you passed the challenge!",
+    "timestamp": 1458060675803
+   }
+  ]
+ },
+ {
+  "taskId": "test-3517184996",
+  "points": 1,
+  "results": [
+   {
+    "code": 0,
+    "output": "Well done!",
+    "timestamp": 1479466707729
+   },
+   {
+    "code": 1,
+    "output": "There are not 3 list items (li) in the list",
+    "timestamp": 1479466696737
+   },
+   {
+    "code": 0,
+    "output": "Well done!",
+    "timestamp": 1479150759784
+   },
+   {
+    "code": 1,
+    "output": "There are not 3 list items (li) in the list",
+    "timestamp": 1479150750577
+   },
+   {
+    "code": 0,
+    "output": "Well done!",
+    "timestamp": 1470328851562
+   },
+   {
+    "code": 1,
+    "output": "There are not 3 list items (li) in the list",
+    "timestamp": 1470328844088
+   },
+   {
+    "code": 1,
+    "output": "There are not 3 list items (li) in the list",
+    "timestamp": 1469525907855
+   },
+   {
+    "code": 1,
+    "output": "There are not 3 list items (li) in the list",
+    "timestamp": 1468924131192
+   },
+   {
+    "code": 0,
+    "output": "Well done!",
+    "timestamp": 1468579203429
+   },
+   {
+    "code": 1,
+    "output": "There are not 3 list items (li) in the list",
+    "timestamp": 1468579196668
+   },
+   {
+    "code": 0,
+    "output": "Well done!",
+    "timestamp": 1467816180269
+   },
+   {
+    "code": 1,
+    "output": "There are not 3 list items (li) in the list",
+    "timestamp": 1467816168937
+   },
+   {
+    "code": 1,
+    "output": "There are not 3 list items (li) in the list",
+    "timestamp": 1466506210837
+   },
+   {
+    "code": 0,
+    "output": "Well done!",
+    "timestamp": 1466506201851
+   },
+   {
+    "code": 1,
+    "output": "There are not 3 list items (li) in the list",
+    "timestamp": 1464360996204
+   },
+   {
+    "code": 0,
+    "output": "Well done!",
+    "timestamp": 1464360984906
+   },
+   {
+    "code": 1,
+    "output": "There are not 3 list items (li) in the list",
+    "timestamp": 1463150918361
+   },
+   {
+    "code": 0,
+    "output": "Well done!",
+    "timestamp": 1463150908657
+   },
+   {
+    "code": 0,
+    "output": "Well done!",
+    "timestamp": 1459866729017
+   },
+   {
+    "code": 1,
+    "output": "There are not 3 list items (li) in the list",
+    "timestamp": 1458061341286
+   }
+  ]
+ },
+ {
+  "taskId": "test-857809534",
+  "points": 0,
+  "results": [
+   {
+    "code": 1,
+    "output": "\n\n  Array\n    #indexOf()\n\n      1) should return -1 when the value is not present\n\n\n  0 passing (51ms)\n  1 failing\n\n  1) Array #indexOf() should return -1 when the value is not present:\n     AssertionError: -1 == \"undefined\"\n      at Context.<anonymous> (test3.js:9:14)\n\n\n",
+    "timestamp": 1458061077810
+   }
+  ]
+ },
+ {
+  "taskId": "test-4112607060",
+  "points": 10,
+  "results": [
+   {
+    "code": 0,
+    "output": "<h3>Program Output</h3>\nHello World 3",
+    "timestamp": 1483623052666
+   },
+   {
+    "code": 0,
+    "output": "<h3>Program Output</h3>\nHello World 3",
+    "timestamp": 1464966502545
+   },
+   {
+    "code": 0,
+    "output": "<h3>Program Output</h3>\nHello World 3",
+    "timestamp": 1464688770207
+   },
+   {
+    "code": 1,
+    "output": "Traceback (most recent call last):\n  File \"test.py\", line 6, in <module>\n    s\nNameError: name 's' is not defined",
+    "timestamp": 1464688764018
+   },
+   {
+    "code": 0,
+    "output": "<h3>Program Output</h3>\nHello World 3",
+    "timestamp": 1464688755615
+   },
+   {
+    "code": 0,
+    "output": "<h3>Program Output</h3>\nHello World 3",
+    "timestamp": 1464688594366
+   },
+   {
+    "code": 1,
+    "output": "challenge5/challenge5.c: In function ‘main’:\nchallenge5/challenge5.c:8:3: error: expected ‘;’ before ‘}’ token\n   }\n   ^\n<h3>Compilation Fails</h3>\n<pre></pre>",
+    "timestamp": 1464688558908
+   },
+   {
+    "code": 0,
+    "output": "<h3>Program Output</h3>\nHello World 3",
+    "timestamp": 1464688549297
+   },
+   {
+    "code": 1,
+    "output": "gcc challenge5/challenge5.c -o /tmp/assessment_test\n<h3>Program Output</h3>\nHello World 3",
+    "timestamp": 1464688536067
+   },
+   {
+    "code": 1,
+    "output": "gcc: error: challange5/challenge5.c: No such file or directory\ngcc: fatal error: no input files\ncompilation terminated.\ngcc challange5/challenge5.c -o /tmp/assessment_test\n<h3>Compilation Fails</h3>\n<pre></pre>",
+    "timestamp": 1464688429591
+   },
+   {
+    "code": 1,
+    "output": "gcc: error: challange5/challenge5.c: No such file or directory\ngcc: fatal error: no input files\ncompilation terminated.\ngcc challange5/challenge5.c -o /tmp/assessment_test\n<h3>Compilation Fails</h3>\n<pre></pre>",
+    "timestamp": 1464688427387
+   },
+   {
+    "code": 1,
+    "output": "  File \"test.py\", line 21\n    try:\n       ^\nIndentationError: unindent does not match any outer indentation level",
+    "timestamp": 1464688417804
+   },
+   {
+    "code": 1,
+    "output": "gcc: error: challange5/challenge5.c: No such file or directory\ngcc: fatal error: no input files\ncompilation terminated.\n<h3>Compilation Fails</h3>\n<pre></pre>",
+    "timestamp": 1464688387395
+   },
+   {
+    "code": 1,
+    "output": "Traceback (most recent call last):\n  File \"test.py\", line 40, in <module>\n    run_test(sys.argv[1])\n  File \"test.py\", line 27, in run_test\n    compile_test(path)\n  File \"test.py\", line 20, in compile_test\n    output=check_output(\"gcc \" + path + \" -o /tmp/assessment_test\", shell=True)\nNameError: global name 'check_output' is not defined",
+    "timestamp": 1464688375169
+   },
+   {
+    "code": 1,
+    "output": "  File \"test.py\", line 2\n    import subprocess.*\n                      ^\nSyntaxError: invalid syntax",
+    "timestamp": 1464688354695
+   },
+   {
+    "code": 1,
+    "output": "Traceback (most recent call last):\n  File \"test.py\", line 40, in <module>\n    run_test(sys.argv[1])\n  File \"test.py\", line 27, in run_test\n    compile_test(path)\n  File \"test.py\", line 20, in compile_test\n    output=check_output(\"gcc \" + path + \" -o /tmp/assessment_test\", shell=True)\nNameError: global name 'check_output' is not defined",
+    "timestamp": 1464688321891
+   },
+   {
+    "code": 0,
+    "output": "['test.py', 'challange5/challenge5.c']",
+    "timestamp": 1464688268260
+   },
+   {
+    "code": 1,
+    "output": "  File \"test.py\", line 37\n    print print(sys.argv)\n              ^\nSyntaxError: invalid syntax",
+    "timestamp": 1464688261276
+   },
+   {
+    "code": 0,
+    "output": "2",
+    "timestamp": 1464688254001
+   },
+   {
+    "code": 1,
+    "output": "  File \"test.py\", line 35\n    exit 0\n         ^\nSyntaxError: invalid syntax",
+    "timestamp": 1464688247398
+   },
+   {
+    "code": 1,
+    "output": "  File \"test.py\", line 32\n    def end_test:\n                ^\nSyntaxError: invalid syntax",
+    "timestamp": 1464688241679
+   },
+   {
+    "code": 1,
+    "output": "  File \"test.py\", line 26\n    def run_test:\n                ^\nSyntaxError: invalid syntax",
+    "timestamp": 1464688232183
+   },
+   {
+    "code": 1,
+    "output": "  File \"test.py\", line 26\n    def run_test\n               ^\nSyntaxError: invalid syntax",
+    "timestamp": 1464688222341
+   },
+   {
+    "code": 1,
+    "output": "  File \"test.py\", line 24\n    exit 1\n         ^\nSyntaxError: invalid syntax",
+    "timestamp": 1464688215697
+   },
+   {
+    "code": 1,
+    "output": "  File \"test.py\", line 16\n    exit 1\n         ^\nSyntaxError: invalid syntax",
+    "timestamp": 1464688203014
+   },
+   {
+    "code": 1,
+    "output": "  File \"test.py\", line 16\n    exit 1\n         ^\nSyntaxError: invalid syntax",
+    "timestamp": 1464688195987
+   },
+   {
+    "code": 1,
+    "output": "  File \"test.py\", line 16\n    exit 1\n         ^\nSyntaxError: invalid syntax",
+    "timestamp": 1464688189488
+   },
+   {
+    "code": 1,
+    "output": "  File \"test.py\", line 12\n    exit 1\n         ^\nSyntaxError: invalid syntax",
+    "timestamp": 1464688181666
+   },
+   {
+    "code": 1,
+    "output": "  File \"test.py\", line 11\n    exit 1\n         ^\nSyntaxError: invalid syntax",
+    "timestamp": 1464688131176
+   },
+   {
+    "code": 1,
+    "output": "  File \"test.py\", line 5\n    def start_test(path)\n                       ^\nSyntaxError: invalid syntax",
+    "timestamp": 1464688087195
+   },
+   {
+    "code": 1,
+    "output": "  File \"test.py\", line 5\n    def start_test(path)\n                       ^\nSyntaxError: invalid syntax",
+    "timestamp": 1464688087161
+   }
+  ]
+ },
+ {
+  "taskId": "multiple-choice-4008002669",
+  "points": 1,
+  "state": {
+   "active": "ed89e3bf-b99a-d7e2-900c-52567352f6bc"
+  },
+  "results": [
+   {
+    "current": [
+     "ed89e3bf-b99a-d7e2-900c-52567352f6bc"
+    ],
+    "right": [
+     "ed89e3bf-b99a-d7e2-900c-52567352f6bc"
+    ],
+    "timestamp": 1475081044060
+   }
+  ]
+ },
+ {
+  "taskId": "code-output-compare-2313277420",
+  "points": 1,
+  "results": [
+   {
+    "code": 0,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"Hello World 5\\n\"}, {\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"Hello World 199\\n\"}]}",
+    "timestamp": 1483622629233
+   },
+   {
+    "code": 2,
+    "output": "{\"sequence\": [{\"returnCode\": 1, \"stderr\": \"Error: Could not find or load main class 1\\n\", \"passed\": false, \"stdout\": \"\"}, {\"returnCode\": 1, \"stderr\": \"Error: Could not find or load main class 99\\n\", \"passed\": false, \"stdout\": \"\"}]}",
+    "timestamp": 1483622456968
+   }
+  ]
+ }
+]
