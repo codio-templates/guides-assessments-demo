@@ -1,5 +1,7 @@
+{Check It!|assessment}(test-1487677191)
 
-This test is very similar to test1 but the script uses a testing library which has been extracted from the test1. This library `testlib.sh` allows us to easily write multiple tests cases. The the complete test code for test2 in `test2.sh` follows. The test library is loaded, a user program compiled and then multiple test cases are run.
+## Reference Information
+This test is very similar to test1 but the script uses a home brewed testing library which has been extracted from the test1. This library `testlib.sh` allows us to easily write multiple tests cases. The the complete test code for test2 in `test2.sh` follows. The test library is loaded, a user program compiled and then multiple test cases are run.
 
 ```
 . /home/codio/workspace/testlib.sh
@@ -12,4 +14,10 @@ run_java_test '0 0' '0'
 end_java_test
 ```
 
-{Check It!|assessment}(test-1487677191)
+
+### Source File Info
+
+| Source code information|  |
+| :------ | :----------- |
+| Student code | `challenge2/Challenge.java` |
+| Test code | `test2.sh` |

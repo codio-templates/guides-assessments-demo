@@ -1,6 +1,6 @@
 {Check It!|assessment}(test-1883631226)
 
-### How it works
+## Reference Information
 Code tests are simply scripts written in any language. In these examples bash has been used as it makes it easy to compile Java code and capture and compare program output with test cases.
 
 The code test can be found in `test1/test.sh`. This example shows you how to write a basic test case. 
@@ -34,3 +34,10 @@ if [ "$OUTPUT1" != "Hello World 30" ]; then
   exit 1
 fi
 ```
+
+### Source File Info
+
+| Source code information|  |
+| :------ | :----------- |
+| Student code folder  | `challenge1/Challenge.java` |
+| Test code folder  | `test1/test.sh` |

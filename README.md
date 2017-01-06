@@ -1,13 +1,11 @@
-
 # Codio Guide Examples
+A lot can be learned by playing the Guide and then editing it to see how it was authored.
 
-To edit the project, navigate to Project > Fork (Fork the box and clone the project) to create your own copy.
+For information on how to create assessments, please refer to the [How to create Assessments](https://codio.com/docs/content/authoring/assessments/) section of the documentation.
 
-The Guide has 6 example sections highlighting various Codio features.
+### Running the Guide
+Please select Tools->Guides->Play from the menu to start the Guide and see the features in action.
 
-1. Guide Basics: Covers Markdown and Guide layout.
-1. MCQ and Fill in the Blanks: Demonstrates buit-in assessment types.
-1. Simple code test: Illustrates how to create a custom auto-marking code test.
-1. Code test framework: Expands on the simple code test to show you how to create your own testing framework.
-1. Test code using with Unit/Behaviour libraries: You can use existing tests written with your favourite Unit/Behaviour testing library.
-1. Testing HTML: You can even test HTML and CSS.
+### Editing the Guide
+You can also see how everything was authored by selecting Tools->Guides->Edit.
+

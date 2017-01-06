@@ -66,6 +66,21 @@
    {
     "code": 0,
     "output": "<h3>Program Output</h3>\nHello World 3\n<br/><hr/><h3>Challenge Feedback</h3>\nWell done you passed the challenge!",
+    "timestamp": 1483624960112
+   },
+   {
+    "code": 0,
+    "output": "<h3>Program Output</h3>\nHello World 3\n<br/><hr/><h3>Challenge Feedback</h3>\nWell done you passed the challenge!",
+    "timestamp": 1483623792064
+   },
+   {
+    "code": 0,
+    "output": "<h3>Program Output</h3>\nHello World 3\n<br/><hr/><h3>Challenge Feedback</h3>\nWell done you passed the challenge!",
+    "timestamp": 1483623761558
+   },
+   {
+    "code": 0,
+    "output": "<h3>Program Output</h3>\nHello World 3\n<br/><hr/><h3>Challenge Feedback</h3>\nWell done you passed the challenge!",
     "timestamp": 1483622643507
    },
    {
@@ -433,12 +448,83 @@
    {
     "code": 0,
     "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"Hello World 5\\n\"}, {\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"Hello World 199\\n\"}]}",
+    "timestamp": 1483636092342
+   },
+   {
+    "code": 2,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": false, \"stdout\": \"Hello World 7\\n\"}, {\"returnCode\": 0, \"stderr\": \"\", \"passed\": false, \"stdout\": \"Hello World 201\\n\"}]}",
+    "timestamp": 1483636075160
+   },
+   {
+    "code": 0,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"Hello World 5\\n\"}, {\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"Hello World 199\\n\"}]}",
+    "timestamp": 1483636061969
+   },
+   {
+    "code": 0,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"Hello World 5\\n\"}, {\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"Hello World 199\\n\"}]}",
+    "timestamp": 1483624953314
+   },
+   {
+    "code": 0,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"Hello World 5\\n\"}, {\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"Hello World 199\\n\"}]}",
     "timestamp": 1483622629233
    },
    {
     "code": 2,
     "output": "{\"sequence\": [{\"returnCode\": 1, \"stderr\": \"Error: Could not find or load main class 1\\n\", \"passed\": false, \"stdout\": \"\"}, {\"returnCode\": 1, \"stderr\": \"Error: Could not find or load main class 99\\n\", \"passed\": false, \"stdout\": \"\"}]}",
     "timestamp": 1483622456968
+   }
+  ]
+ },
+ {
+  "taskId": "code-output-compare-1758926380",
+  "points": 1,
+  "results": [
+   {
+    "code": 0,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"First Number: Second Number: Total : 3.0\\n\"}, {\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"First Number: Second Number: Total : 3.456\\n\"}]}",
+    "timestamp": 1483701127339
+   },
+   {
+    "code": 1,
+    "output": "{\"error\": \"Pre command failed\"}",
+    "timestamp": 1483700791475
+   },
+   {
+    "code": 0,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"First Number: Second Number: Total : 3.0\\n\"}, {\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"First Number: Second Number: Total : 3.456\\n\"}]}",
+    "timestamp": 1483700590340
+   },
+   {
+    "code": 0,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"First Number: Second Number: Total : 3.0\\n\"}]}",
+    "timestamp": 1483700527259
+   },
+   {
+    "code": 2,
+    "output": "{\"sequence\": [{\"returnCode\": 1, \"stderr\": \"Unrecognized option: -classpth\\nError: Could not create the Java Virtual Machine.\\nError: A fatal exception has occurred. Program will exit.\\n\", \"passed\": false, \"stdout\": \"\"}]}",
+    "timestamp": 1483700500378
+   },
+   {
+    "code": 1,
+    "output": "{\"error\": \"Pre command failed\"}",
+    "timestamp": 1483700465615
+   },
+   {
+    "code": 1,
+    "output": "{\"error\": \"Pre command failed\"}",
+    "timestamp": 1483700160353
+   },
+   {
+    "code": 1,
+    "output": "{\"error\": \"Pre command failed\"}",
+    "timestamp": 1483700046583
+   },
+   {
+    "code": 1,
+    "output": "{\"error\": \"Pre command failed\"}",
+    "timestamp": 1483700008601
    }
   ]
  }

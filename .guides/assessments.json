@@ -301,5 +301,36 @@
     }
    ]
   }
+ },
+ {
+  "type": "code-output-compare",
+  "taskId": "code-output-compare-1758926380",
+  "source": {
+   "name": "Stdin",
+   "showName": true,
+   "preExecuteCommand": "javac stdin/AddNumbers.java",
+   "command": "java -classpath stdin AddNumbers",
+   "points": 1,
+   "oneTimeTest": false,
+   "instructions": "When you have tested your code and are happy with it, press the button below.",
+   "options": {
+    "ignoreCase": true,
+    "ignoreWhitespaces": true,
+    "ignoreNewline": true,
+    "timeout": 30
+   },
+   "sequence": [
+    {
+     "arguments": "",
+     "input": "1\n2",
+     "output": "first number    :\nsecond number         :\ntotal:3.0"
+    },
+    {
+     "arguments": "",
+     "input": "1.456\n2",
+     "output": "first number    :\nsecond number         :\ntotal:3.456"
+    }
+   ]
+  }
  }
 ]
