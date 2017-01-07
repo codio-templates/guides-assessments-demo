@@ -1,9 +1,13 @@
+Use the button below to test your code first.
+
+{Test Run}(challenge1/run.sh 10 20)
+
 {Check It!|assessment}(test-1883631226)
 
-## Reference Information
-Code tests are simply scripts written in any language. In these examples bash has been used as it makes it easy to compile Java code and capture and compare program output with test cases.
+## Explanation
+Advanced code tests are scripts, written in any language. In this example bash has been used. 
 
-The code test can be found in `test1/test.sh`. This example shows you how to write a basic test case. 
+The code test can be found in `challenge1/advanced-test.sh`. This example shows you how to write a basic test case. Notice how all `echo` statements are output to the Guide.
 
 Firstly the bash script changes the working directory from the default `/home/codio/workspace` to the content folder.
 `/home/codio/workspace/challenge1`
@@ -40,4 +44,4 @@ fi
 | Source code information|  |
 | :------ | :----------- |
 | Student code folder  | `challenge1/Challenge.java` |
-| Test code folder  | `test1/test.sh` |
+| Test code folder  | `challenge1/advanced-test.sh` |

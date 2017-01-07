@@ -20,4 +20,5 @@ end_java_test
 | Source code information|  |
 | :------ | :----------- |
 | Student code | `challenge2/Challenge.java` |
-| Test code | `test2.sh` |
+| Test Framework | `challenge2/testlib.sh` |
+| Test code | `challenge2/framework-test.sh` |

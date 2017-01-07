@@ -14,8 +14,8 @@ This solution will only be shown to teachers.
 ```
 |||
 
-## Reference Information
-The above example shows how to use libraries to help build more complex testing scenarios. The test file is `test4.js`. 
+## Explanation
+The above example shows how to use libraries to help build more complex testing scenarios. The test file is `challenge4/test4.js`. 
 
 It uses the Cheerio package to read and process the HTML into a DOM structure that can then be queried with jquery syntax. 
 
@@ -27,4 +27,4 @@ Processing this, and especially more complex HTML, would be painful to code from
 | Source code information|  |
 | :------ | :----------- |
 | Student code | `challenge4/challenge.html` |
-| Test code | `test4.js` invoked with `node test4.js` |
+| Test code | `challenge4/test4.js` invoked with `node challenge4/test4.js` |

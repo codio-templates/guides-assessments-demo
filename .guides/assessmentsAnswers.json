@@ -50,8 +50,33 @@
  },
  {
   "taskId": "test-1487677191",
-  "points": 0,
+  "points": 1,
   "results": [
+   {
+    "code": 0,
+    "output": "<h3>Program Output</h3>\n71\n<hr/><h3>Challenge Feedback</h3>\nWell done you passed all test cases!",
+    "timestamp": 1483785359903
+   },
+   {
+    "code": 0,
+    "output": "<h3>Program Output</h3>\n71\n<hr/><h3>Challenge Feedback</h3>\nWell done you passed all test cases!",
+    "timestamp": 1483784943431
+   },
+   {
+    "code": 0,
+    "output": "<h3>Program Output</h3>\ntestlib.sh: line 9: cd: ~/workspace/challenge2: No such file or directory\n71\n<hr/><h3>Challenge Feedback</h3>\nWell done you passed all test cases!",
+    "timestamp": 1483784926830
+   },
+   {
+    "code": 0,
+    "output": "<h3>Program Output</h3>\ntestlib.sh: line 9: cd: challenge2: No such file or directory\n71\n<hr/><h3>Challenge Feedback</h3>\nWell done you passed all test cases!",
+    "timestamp": 1483784846446
+   },
+   {
+    "code": 127,
+    "output": "challenge2/framework-test.sh: line 2: testlib.sh: No such file or directory\nchallenge2/framework-test.sh: line 4: start_java_test: command not found\nchallenge2/framework-test.sh: line 5: run_java_test: command not found\nchallenge2/framework-test.sh: line 6: run_java_test: command not found\nchallenge2/framework-test.sh: line 7: run_java_test: command not found\nchallenge2/framework-test.sh: line 8: run_java_test: command not found\nchallenge2/framework-test.sh: line 9: end_java_test: command not found",
+    "timestamp": 1483784794219
+   },
    {
     "code": 1,
     "output": "<h3>Program Output</h3>\n0\n<br/><hr/><h3>Challenge Feedback</h3>\nYour code is not outputing the correct value",
@@ -63,6 +88,16 @@
   "taskId": "test-1883631226",
   "points": 1,
   "results": [
+   {
+    "code": 0,
+    "output": "<h3>Program Output</h3>\nHello World 30\n<br/><hr/><h3>Challenge Feedback</h3>\nWell done you passed the challenge!",
+    "timestamp": 1483784230406
+   },
+   {
+    "code": 127,
+    "output": "/usr/share/rpc/bash-proxy.sh: line 11: challenge1/test.sh: No such file or directory",
+    "timestamp": 1483784205902
+   },
    {
     "code": 0,
     "output": "<h3>Program Output</h3>\nHello World 3\n<br/><hr/><h3>Challenge Feedback</h3>\nWell done you passed the challenge!",
@@ -257,6 +292,16 @@
   "results": [
    {
     "code": 1,
+    "output": "\n\n  Array\n    #indexOf()\n\n      1) should return -1 when the value is not present\n\n\n  0 passing (6ms)\n  1 failing\n\n  1) Array #indexOf() should return -1 when the value is not present:\n     AssertionError: -1 == \"undefined\"\n      at Context.<anonymous> (challenge3/test3.js:10:14)\n\n\n",
+    "timestamp": 1483786598887
+   },
+   {
+    "code": 8,
+    "output": "\nmodule.js:340\n    throw err;\n          ^\nError: Cannot find module './challenge3/challenge.js'\n    at Function.Module._resolveFilename (module.js:338:15)\n    at Function.Module._load (module.js:280:25)\n    at Module.require (module.js:364:17)\n    at require (module.js:380:17)\n    at Object.<anonymous> (/home/codio/workspace/challenge3/test3.js:3:1)\n    at Module._compile (module.js:456:26)\n    at Object.Module._extensions..js (module.js:474:10)\n    at Module.load (module.js:356:32)\n    at Function.Module._load (module.js:312:12)\n    at Module.require (module.js:364:17)\n    at require (module.js:380:17)\n    at /usr/local/lib/node_modules/mocha/lib/mocha.js:219:27\n    at Array.forEach (native)\n    at Mocha.loadFiles (/usr/local/lib/node_modules/mocha/lib/mocha.js:216:14)\n    at Mocha.run (/usr/local/lib/node_modules/mocha/lib/mocha.js:468:10)\n    at Object.<anonymous> (/usr/local/lib/node_modules/mocha/bin/_mocha:403:18)\n    at Module._compile (module.js:456:26)\n    at Object.Module._extensions..js (module.js:474:10)\n    at Module.load (module.js:356:32)\n    at Function.Module._load (module.js:312:12)\n    at Function.Module.runMain (module.js:497:10)\n    at startup (node.js:119:16)\n    at node.js:902:3",
+    "timestamp": 1483785669465
+   },
+   {
+    "code": 1,
     "output": "\n\n  Array\n    #indexOf()\n\n      1) should return -1 when the value is not present\n\n\n  0 passing (51ms)\n  1 failing\n\n  1) Array #indexOf() should return -1 when the value is not present:\n     AssertionError: -1 == \"undefined\"\n      at Context.<anonymous> (test3.js:9:14)\n\n\n",
     "timestamp": 1458061077810
    }
@@ -266,6 +311,16 @@
   "taskId": "test-4112607060",
   "points": 10,
   "results": [
+   {
+    "code": 0,
+    "output": "<h3>Program Output</h3>\nHello World 3",
+    "timestamp": 1483786723712
+   },
+   {
+    "code": 1,
+    "output": "challenge5/challenge5.c:1:3: error: invalid preprocessing directive #challenge5\n # challenge5/challenge5.c\n   ^\n<h3>Compilation Fails</h3>\n<pre></pre>",
+    "timestamp": 1483786712462
+   },
    {
     "code": 0,
     "output": "<h3>Program Output</h3>\nHello World 3",
@@ -448,6 +503,11 @@
    {
     "code": 0,
     "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"Hello World 5\\n\"}, {\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"Hello World 199\\n\"}]}",
+    "timestamp": 1483716986282
+   },
+   {
+    "code": 0,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"Hello World 5\\n\"}, {\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"Hello World 199\\n\"}]}",
     "timestamp": 1483636092342
    },
    {
@@ -481,6 +541,16 @@
   "taskId": "code-output-compare-1758926380",
   "points": 1,
   "results": [
+   {
+    "code": 0,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"First Number: Second Number: Total : 3.0\\n\"}, {\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"First Number: Second Number: Total : 3.456\\n\"}, {\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"First Number: Second Number: Total : 300.0\\n\"}]}",
+    "timestamp": 1483784337515
+   },
+   {
+    "code": 0,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"First Number: Second Number: Total : 3.0\\n\"}, {\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"First Number: Second Number: Total : 3.456\\n\"}, {\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"First Number: Second Number: Total : 300.0\\n\"}]}",
+    "timestamp": 1483783850288
+   },
    {
     "code": 0,
     "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"First Number: Second Number: Total : 3.0\\n\"}, {\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"First Number: Second Number: Total : 3.456\\n\"}]}",
@@ -525,6 +595,127 @@
     "code": 1,
     "output": "{\"error\": \"Pre command failed\"}",
     "timestamp": 1483700008601
+   }
+  ]
+ },
+ {
+  "taskId": "test-1592842204",
+  "points": 10,
+  "results": [
+   {
+    "code": 0,
+    "output": "<h3>Program Output</h3>\n62\nB grade\n{\"code\":0,\"message\":\"Cannot read property 'source' of null - 5da88c10-d4cd-11e6-b05b-cb15f7165296\"}",
+    "timestamp": 1483788955143
+   },
+   {
+    "code": 1,
+    "output": "<h3>Program Output</h3>\n15\nFailed I'm afraid!",
+    "timestamp": 1483788620593
+   },
+   {
+    "code": 1,
+    "output": "<h3>Program Output</h3>\n8\nFailed I'm afraid!",
+    "timestamp": 1483788572307
+   },
+   {
+    "code": 0,
+    "output": "<h3>Program Output</h3>\n37\nB grade",
+    "timestamp": 1483788564374
+   },
+   {
+    "code": 0,
+    "output": "<h3>Program Output</h3>\n84\nA grade",
+    "timestamp": 1483788431428
+   },
+   {
+    "code": 1,
+    "output": "<h3>Program Output</h3>\n4\nFailed I'm afraid!",
+    "timestamp": 1483788321037
+   },
+   {
+    "code": 1,
+    "output": "<h3>Program Output</h3>\n24\nFailed I'm afraid!",
+    "timestamp": 1483788299461
+   },
+   {
+    "code": 0,
+    "output": "<h3>Program Output</h3>\n16\nA grade",
+    "timestamp": 1483788289543
+   },
+   {
+    "code": 1,
+    "output": "<h3>Program Output</h3>\n5\nFailed I'm afraid!",
+    "timestamp": 1483788268637
+   },
+   {
+    "code": 0,
+    "output": "<h3>Program Output</h3>\n68\nA grade",
+    "timestamp": 1483788264038
+   },
+   {
+    "code": 0,
+    "output": "<h3>Program Output</h3>\n45\nB grade",
+    "timestamp": 1483788259830
+   },
+   {
+    "code": 0,
+    "output": "<h3>Program Output</h3>\n93\nA grade",
+    "timestamp": 1483788249949
+   },
+   {
+    "code": 0,
+    "output": "<h3>Program Output</h3>\n63\nB grade",
+    "timestamp": 1483788237423
+   },
+   {
+    "code": 0,
+    "output": "<h3>Program Output</h3>\n33\nFailed I'm afraid!",
+    "timestamp": 1483788228905
+   },
+   {
+    "code": 0,
+    "output": "<h3>Program Output</h3>\n95\nA grade",
+    "timestamp": 1483788224606
+   },
+   {
+    "code": 0,
+    "output": "<h3>Program Output</h3>\n85\nA grade",
+    "timestamp": 1483788220518
+   },
+   {
+    "code": 0,
+    "output": "<h3>Program Output</h3>\n84\nA grade",
+    "timestamp": 1483788214159
+   },
+   {
+    "code": 2,
+    "output": "<h3>Program Output</h3>\n63\npartial/partial-test.sh: line 25: syntax error in conditional expression\npartial/partial-test.sh: line 25: syntax error near `;'\npartial/partial-test.sh: line 25: `if [[ $OUTPUT1 -gt 66 ]; then'",
+    "timestamp": 1483788104198
+   },
+   {
+    "code": 0,
+    "output": "<h3>Program Output</h3>\n5\nA grade",
+    "timestamp": 1483787991332
+   },
+   {
+    "code": 0,
+    "output": "<h3>Program Output</h3>\n80\nA grade",
+    "timestamp": 1483787980923
+   },
+   {
+    "code": 0,
+    "output": "<h3>Program Output</h3>\n21\nA grade",
+    "timestamp": 1483787960611
+   },
+   {
+    "code": 2,
+    "output": "<h3>Program Output</h3>\n52\npartial/partial-test.sh: line 29: syntax error near unexpected token `fi'\npartial/partial-test.sh: line 29: `fi '",
+    "timestamp": 1483787925896
+   },
+   {
+    "code": 2,
+    "output": "<h3>Program Output</h3>\n43\npartial/partial-test.sh: line 38: syntax error: unexpected end of file",
+    "timestamp": 1483787878800
    }
   ]
  }

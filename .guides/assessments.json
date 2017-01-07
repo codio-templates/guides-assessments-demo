@@ -138,16 +138,13 @@
   "type": "test",
   "taskId": "test-1487677191",
   "source": {
+   "name": "test2",
    "showName": false,
-   "answers": [],
-   "tokens": {
-    "blank": [],
-    "text": []
-   },
-   "points": 1,
-   "command": "./test2.sh",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
    "instructions": "Write a program that receives two numeric arguments, a and b, and outputs a single string with the value (a + b).",
-   "name": "test2"
+   "command": "challenge2/framework-test.sh",
+   "points": 1
   }
  },
  {
@@ -159,7 +156,7 @@
    "arePartialPointsAllowed": false,
    "oneTimeTest": false,
    "instructions": "Write a program that receives two numeric arguments, a and b, and outputs a single string with the value \"Hello World \" + (a + b).",
-   "command": "./test1/test.sh",
+   "command": "challenge1/advanced-test.sh",
    "points": 1
   }
  },
@@ -167,32 +164,26 @@
   "type": "test",
   "taskId": "test-3517184996",
   "source": {
+   "name": "Unordered lists",
    "showName": true,
-   "answers": [],
-   "tokens": {
-    "blank": [],
-    "text": []
-   },
-   "points": 1,
-   "command": "node test4.js",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
    "instructions": "Create an unordered list with 3 list items.",
-   "name": "Unordered lists"
+   "command": "node challenge4/test4.js",
+   "points": 1
   }
  },
  {
   "type": "test",
   "taskId": "test-857809534",
   "source": {
+   "name": "JavaScript test using Mocha",
    "showName": true,
-   "answers": [],
-   "tokens": {
-    "blank": [],
-    "text": []
-   },
-   "points": 1,
-   "command": "mocha test3.js",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
    "instructions": "JavaScript's Array.indexOf method should return -1 if no value is supplied. Complete the expected behaviour.",
-   "name": "JavaScript test using Mocha"
+   "command": "mocha challenge3/test3.js",
+   "points": 1
   }
  },
  {
@@ -201,87 +192,24 @@
   "source": {
    "name": "test c with python",
    "showName": true,
-   "instructions": "Write a program that receives two numeric arguments, a and b, and outputs a single string with the value \"Hello World \" + (a + b).",
-   "command": "python test.py challenge5/challenge5.c",
-   "points": 10
-  }
- },
- {
-  "type": "multiple-choice",
-  "taskId": "multiple-choice-4008002669",
-  "source": {
-   "name": "RAM Question",
-   "showName": true,
-   "instructions": "What does RAM stand for?",
-   "points": "1",
-   "incorrectPoints": "0",
-   "multipleResponse": false,
-   "answers": [
-    {
-     "answer": "Random Access Mom",
-     "correct": false,
-     "_id": "68f56a96-e2c2-e41a-b2b7-96255b9b22a8"
-    },
-    {
-     "answer": "asdasd",
-     "correct": false,
-     "_id": "9689bf24-8f59-6aea-50a0-1c5982420771"
-    },
-    {
-     "answer": "asdasd",
-     "correct": false,
-     "_id": "e3e01ea8-8705-4c4c-ca0e-0bf59c616fd0"
-    },
-    {
-     "correct": true,
-     "answer": "Random Access Memory",
-     "_id": "ed89e3bf-b99a-d7e2-900c-52567352f6bc"
-    }
-   ]
-  }
- },
- {
-  "type": "code-output-compare",
-  "taskId": "code-output-compare-1166951360",
-  "source": {
-   "name": "Sort Me",
-   "showName": true,
-   "preExecuteCommand": "javac studentcodefolder/Sort.java",
-   "command": "java studentcodefolder/Sort",
-   "points": 1,
+   "arePartialPointsAllowed": false,
    "oneTimeTest": false,
-   "instructions": "Write some code to sort an array of integers.",
-   "options": {
-    "ignoreCase": false,
-    "ignoreWhitespaces": true,
-    "ignoreNewline": true,
-    "timeout": 30
-   },
-   "sequence": [
-    {
-     "arguments": "12 7 15 3 1",
-     "input": "",
-     "output": "1 3 7 12 15"
-    },
-    {
-     "arguments": "",
-     "input": "Enter first name: Sarah\nEnter last name: Smithers",
-     "output": "Enter first name:\nEnter last name: \nSarah Smithers"
-    }
-   ]
+   "instructions": "Write a program that receives two numeric arguments, a and b, and outputs a single string with the value \"Hello World \" + (a + b).",
+   "command": "python challenge5/test.py challenge5/challenge5.c",
+   "points": 10
   }
  },
  {
   "type": "code-output-compare",
   "taskId": "code-output-compare-2313277420",
   "source": {
-   "name": "Standard",
-   "showName": true,
+   "name": "Standard (argument)",
+   "showName": false,
    "preExecuteCommand": "javac challenge1/Challenge.java",
    "command": "java -classpath challenge1 Challenge",
    "points": 1,
    "oneTimeTest": false,
-   "instructions": "Write a program that receives two numeric arguments, a and b, and outputs a single string with the value \"Hello World \" + (a + b).",
+   "instructions": "",
    "options": {
     "ignoreCase": false,
     "ignoreWhitespaces": true,
@@ -329,8 +257,26 @@
      "arguments": "",
      "input": "1.456\n2",
      "output": "first number    :\nsecond number         :\ntotal:3.456"
+    },
+    {
+     "arguments": "",
+     "input": "100\n200",
+     "output": "first number    :\nsecond number         :\ntotal:300.0"
     }
    ]
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-1592842204",
+  "source": {
+   "name": "Partial",
+   "showName": false,
+   "arePartialPointsAllowed": true,
+   "oneTimeTest": false,
+   "instructions": "Write some code that outputs a random number between 0 and 100. This is not really a valid test but a demo only to show how partial points works.",
+   "command": "partial/partial-test.sh",
+   "points": 10
   }
  }
 ]

@@ -15,14 +15,14 @@ if [ $? -ne 0 ]; then exit 1; fi
 
 # test case 1
 # run the progarm with input 10 20
-OUTPUT1=("$(java Challenge 1 2)")
+OUTPUT1=("$(java Challenge 10 20)")
 # if there was a runtime error 
 # then exit the test and show the captured output to the user 
 if [ $? -ne 0 ]; then exit 1; fi
 echo "$OUTPUT1"
 
 # check for the expected behavior
-if [ "$OUTPUT1" != "Hello World 3" ]; then 
+if [ "$OUTPUT1" != "Hello World 30" ]; then 
   echo "<br/><hr/><h3>Challenge Feedback</h3>"
   echo "Your code is not outputing the correct value"
   exit 1

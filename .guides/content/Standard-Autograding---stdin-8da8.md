@@ -1,6 +1,4 @@
 
-
-||| challenge
 You should write a program that inputs two numbers. It should ask for the inputs exactly as follows ...
 
 `First Number :`
@@ -9,17 +7,20 @@ You should write a program that inputs two numbers. It should ask for the inputs
 ... and then output the result as 
 
 `Total : <total>`
-|||
 
-### This button is just for testing the code
-The command text for this button is `{Test Me | terminal}(stdin/test.sh)` and you should note that the `| terminal` is required in order to ensure that the testing happens in a terminal window as the Guide cannot handle user input.
+
+Use the button below to test your code first.
 
 {Test Me | terminal}(stdin/test.sh)
 
 {Check It!|assessment}(code-output-compare-1758926380)
 
-## Reference Information
+## Explanation
 This example is good for dealing with code that expects input from `stdin`. This can be useful when allowing students to input values when testing but is still testable by the Codio autograding engine.
+
+In this instance, you will notice that there are 3 test runs. Multiple test runs are especially useful for testing different conditions that need to be taken into account by the student.
+
+When you look at the assessment setup for this question, note how we have not been strict about whitespace characters and how the "Ignore Whitepsace" setting compensates for this.
 
 Please refer to the [Standard Code Test](https://codio.com/docs/content/authoring/assessments/assessments-standard-code-tests/) documentation for details on how to configure it and look for the standard input example.
 

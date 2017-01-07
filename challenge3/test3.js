@@ -1,5 +1,6 @@
+// challenge3/test3.js
 
-require('./challenge3/challenge.js');
+require('/home/codio/workspace/challenge3/challenge.js');
 
 var assert = require('assert');
 

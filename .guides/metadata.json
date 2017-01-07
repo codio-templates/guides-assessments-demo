@@ -255,15 +255,8 @@
      "action": "open"
     },
     {
-     "path": "test1/test.sh",
+     "path": "challenge1/advanced-test.sh",
      "panel": 1,
-     "action": "open"
-    },
-    {
-     "path": "",
-     "panel": 0,
-     "ref": "",
-     "lineCount": null,
      "action": "open"
     }
    ],
@@ -271,6 +264,33 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Advanced-Autograding-5130.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "b380c24d-c856-9e75-ca9a-00226ce841ba",
+   "title": "Advanced - Partial Points",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "partial/Challenge.java",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "partial/partial-test.sh",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Advanced---Partial-Points-b380.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -306,7 +326,7 @@
      "action": "open"
     },
     {
-     "path": "test4.js",
+     "path": "challenge4/test4.js",
      "panel": 1,
      "action": "open"
     }
@@ -333,7 +353,12 @@
      "action": "open"
     },
     {
-     "path": "testlib.sh",
+     "path": "challenge2/testlib.sh",
+     "panel": 1,
+     "action": "open"
+    },
+    {
+     "path": "challenge2/framework-test.sh",
      "panel": 1,
      "action": "open"
     }
@@ -360,7 +385,7 @@
      "action": "open"
     },
     {
-     "path": "test3.js",
+     "path": "challenge3/test3.js",
      "panel": 1,
      "action": "open"
     }
@@ -387,7 +412,7 @@
      "action": "open"
     },
     {
-     "path": "test.py",
+     "path": "challenge5/test.py",
      "panel": 1,
      "action": "open"
     }

@@ -8,4 +8,4 @@ This uses the Mocha testing framework to run the tests. In this example, it is i
 | Source code information|  |
 | :------ | :----------- |
 | Student code | `challenge3/challenge.js` |
-| Test code | `test3.js` invoked with `mocha test3.js` |
+| Test code | `challenge3/test3.js` invoked with `mocha test3.js` |
