@@ -288,8 +288,18 @@
  },
  {
   "taskId": "test-857809534",
-  "points": 0,
+  "points": 1,
   "results": [
+   {
+    "code": 0,
+    "output": "\n\n  Array\n    #indexOf()\n\n      ✓ should return -1 when the value is not present\n\n\n  1 passing (5ms)\n",
+    "timestamp": 1483956162485
+   },
+   {
+    "code": 1,
+    "output": "\n\n  Array\n    #indexOf()\n\n      1) should return -1 when the value is not present\n\n\n  0 passing (10ms)\n  1 failing\n\n  1) Array #indexOf() should return -1 when the value is not present:\n     AssertionError: -1 == \"undefined\"\n      at Context.<anonymous> (challenge3/test3.js:10:14)\n\n\n",
+    "timestamp": 1483955845286
+   },
    {
     "code": 1,
     "output": "\n\n  Array\n    #indexOf()\n\n      1) should return -1 when the value is not present\n\n\n  0 passing (6ms)\n  1 failing\n\n  1) Array #indexOf() should return -1 when the value is not present:\n     AssertionError: -1 == \"undefined\"\n      at Context.<anonymous> (challenge3/test3.js:10:14)\n\n\n",

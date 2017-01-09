@@ -1,9 +1,12 @@
 // challenge3/challenge.js
 
 Array.prototype.indexOf = function(val) {
-	
-  if ( val === undefined || val == 0) {
-    return -1;
-  }
   
+  // Student code below
+  for (var i = 0; i < this.length; i++) {
+    if (this[i] === val) {
+      return i
+    }
+  }
+  return -1
 }
