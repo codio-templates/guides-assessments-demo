@@ -1,5 +1,7 @@
 [editor]
 tab_size = 2
+font_size = 16
+
 ; enter your editor preferences here...
 
 [view-javascript-code]
@@ -13,6 +15,7 @@ tab_size = 2
 
 [terminal]
 ; enter your terminal preferences here...
+font_size = 14
 
 [preview]
 ; enter your preview preferences here...
