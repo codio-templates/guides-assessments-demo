@@ -15,7 +15,7 @@ font_size = 16
 
 [terminal]
 ; enter your terminal preferences here...
-font_size = 14
+font_size = 16
 
 [preview]
 ; enter your preview preferences here...
