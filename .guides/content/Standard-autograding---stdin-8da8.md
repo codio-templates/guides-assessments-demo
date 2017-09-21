@@ -28,7 +28,7 @@ Please refer to the [standard code test](https://codio.com/docs/content/authorin
 
 | Source code information|  |
 | :------ | :----------- |
-| Student code folder  | `challenge1` |
+| Student code folder  | `stdin/AddNumbers.java` |
 | Test code folder  | None required as handled by standard assessment type |
 
 

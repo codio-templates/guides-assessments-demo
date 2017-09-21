@@ -1,6 +1,6 @@
 
 
-## Left Aligned Data
+## Left aligned data
 
 | Option | Description |
 | :------ | :----------- |
@@ -8,7 +8,7 @@
 | `engine` | engine to be used for processing templates. Handlebars is the default. |
 | `ext`    | extension to be used for dest files. |
 
-## Right Aligned Data
+## Right aligned data
 
 | Option | Description |
 | ------:| -----------:|
@@ -16,7 +16,7 @@
 | engine | engine to be used for processing templates. Handlebars is the default. |
 | ext    | extension to be used for dest files. |
 
-## Centered Data
+## Centered data
 
 | Option | Description |
 | :------: | :-----------: |
@@ -24,7 +24,7 @@
 | engine | engine to be used for processing templates. Handlebars is the default. |
 | ext    | extension to be used for dest files. |
 
-## Embedding Code in a table
+## Embedding code in a table
 
 
 | Status | Response  |

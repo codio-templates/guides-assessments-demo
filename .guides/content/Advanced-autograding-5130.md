@@ -25,7 +25,7 @@ javac Challenge.java
 if [ $? -ne 0 ]; then exit 1; fi
 ```
 
-The test case calls the compiled hava program with arguments `10 20`, capturing the output and then tests this with the expected output.
+The test case calls the compiled java program with arguments `10 20`, capturing the output and then tests this with the expected output.
 
 ```
 OUTPUT1=("$(java Challenge 10 20)")

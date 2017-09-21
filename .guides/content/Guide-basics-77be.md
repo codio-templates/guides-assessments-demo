@@ -1,5 +1,5 @@
 ## Available style
-The later sections in this Guide show you the available markdown commands for Guides.
+The later sections in this Guide show you the available markdown commands for Guides. To see the source, press the Edit icon (pencil) in the panel on the left.
 
 ## Starting Guide
 
