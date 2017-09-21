@@ -4,3 +4,7 @@ Please refer to the [Multiple choice](https://codio.com/docs/content/authoring/a
 
 {Check It!|assessment}(multiple-choice-3362447361)
 
+To view teacher solutions that are included in these assessments, select **View as teacher**
+
+
+![.guides/img/teachersolutionss](.guides/img/teachersolutionss.png)

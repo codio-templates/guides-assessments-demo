@@ -67,71 +67,73 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-3362447361",
   "source": {
+   "name": "MCQ with Multiple Responses ",
    "showName": true,
+   "bloomsObjectiveLevel": "",
+   "guidance": "Correct Answer: **1** & **4**",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "Which numbers are not primes?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "learningObjectives": "",
    "answers": [
     {
+     "_id": "56e003bd40f757f006946549",
      "correct": true,
-     "answer": "1",
-     "_id": "56e003bd40f757f006946549"
+     "answer": "1"
     },
     {
+     "_id": "56e003bd40f757f006946548",
      "correct": true,
-     "answer": "2",
-     "_id": "56e003bd40f757f006946548"
+     "answer": "4"
     },
     {
-     "answer": "11",
+     "_id": "56e003bd40f757f006946547",
      "correct": false,
-     "_id": "56e003bd40f757f006946547"
+     "answer": "11"
     },
     {
-     "answer": "37",
+     "_id": "56e003bd40f757f006946546",
      "correct": false,
-     "_id": "56e003bd40f757f006946546"
+     "answer": "37"
     }
-   ],
-   "tokens": {
-    "blank": [],
-    "text": []
-   },
-   "multipleResponse": true,
-   "incorrectPoints": 0,
-   "points": 1,
-   "instructions": "Which numbers are not primes?",
-   "name": "MCQ with Multiple Responses "
+   ]
   }
  },
  {
   "type": "multiple-choice",
   "taskId": "multiple-choice-3851013076",
   "source": {
+   "name": "MCQ with Single Response",
    "showName": true,
+   "bloomsObjectiveLevel": "",
+   "guidance": "Correct Answer: **1**",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "Which number is not a prime?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "learningObjectives": "",
    "answers": [
     {
+     "_id": "56e0037f89191cb269f5b60f",
      "correct": true,
-     "answer": "1",
-     "_id": "56e0037f89191cb269f5b60f"
+     "answer": "1"
     },
     {
-     "answer": "2",
+     "_id": "56e0037f89191cb269f5b60e",
      "correct": false,
-     "_id": "56e0037f89191cb269f5b60e"
+     "answer": "2"
     },
     {
-     "answer": "11",
+     "_id": "56e0037f89191cb269f5b60d",
      "correct": false,
-     "_id": "56e0037f89191cb269f5b60d"
+     "answer": "11"
     }
-   ],
-   "tokens": {
-    "blank": [],
-    "text": []
-   },
-   "multipleResponse": false,
-   "incorrectPoints": 0,
-   "points": 1,
-   "instructions": "Which number is not a prime?",
-   "name": "MCQ with Single Response"
+   ]
   }
  },
  {
