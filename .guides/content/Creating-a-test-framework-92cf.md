@@ -1,6 +1,6 @@
 {Check It!|assessment}(test-1487677191)
 
-## Reference Information
+## Reference information
 This test is very similar to test1 but the script uses a home brewed testing library which has been extracted from the test1. This library `testlib.sh` allows us to easily write multiple tests cases. The the complete test code for test2 in `test2.sh` follows. The test library is loaded, a user program compiled and then multiple test cases are run.
 
 ```
@@ -15,7 +15,7 @@ end_java_test
 ```
 
 
-### Source File Info
+### Source file info
 
 | Source code information|  |
 | :------ | :----------- |

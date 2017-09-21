@@ -8,7 +8,7 @@ Any normal markdown text goes between the opening and closing ||| delimiters.
 ```
 
 ### Teacher only callouts
-"Guidance" is a very useful for displaying content that only teachers see. You won't see this unless you go to the Settings button (when previewing, not editing) and select **View as Teacher**.
+"Guidance" is a very useful for displaying content that only teachers see. You won't see this unless you go to the settings button (when previewing, not editing) and select **View as Teacher**.
 
 ||| guidance
 # guidance

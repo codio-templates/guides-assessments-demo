@@ -24,4 +24,10 @@
 | engine | engine to be used for processing templates. Handlebars is the default. |
 | ext    | extension to be used for dest files. |
 
+## Embedding Code in a table
 
+
+| Status | Response  |
+| ------ | --------- |
+| 200    | <pre><code>{<br/>  "id": 10,<br/>  "username": "alanpartridge"<br/>}</code></pre>   |
+| 400    |                                 |

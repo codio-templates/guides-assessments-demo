@@ -1,11 +1,11 @@
 {Check It!|assessment}(test-4112607060)
 
 ## Explanation
-Above is a automated test assessment example. It invites the student to write some code in C. The test, however, is written in Python `test.py` and is shown in the bottom left pane.
+Above is a automated test assessment example. It invites the student to write some code in c. The test, however, is written in python `test.py` and is shown in the bottom left pane.
 
 You would not normally show the test to students, of course. This is done just to show you the matching test.
 
-### Source File Info
+### Source file info
 
 | Source code information|  |
 | :------ | :----------- |

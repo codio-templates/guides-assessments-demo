@@ -16,7 +16,7 @@ curl -s "$CODIO_PARTIAL_POINTS_URL&points=10" > /dev/null
 
 Please refer to the help (look towards the bottom) on [this page](https://codio.com/docs/content/authoring/assessments/assessments-code-tests/)
 
-### Source File Info
+### Source file info
 
 | Source code information|  |
 | :------ | :----------- |

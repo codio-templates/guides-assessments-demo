@@ -22,13 +22,13 @@ In this instance, you will notice that there are 3 test runs. Multiple test runs
 
 When you look at the assessment setup for this question, note how we have not been strict about whitespace characters and how the "Ignore Whitepsace" setting compensates for this.
 
-Please refer to the [Standard Code Test](https://codio.com/docs/content/authoring/assessments/assessments-standard-code-tests/) documentation for details on how to configure it and look for the standard input example.
+Please refer to the [standard code test](https://codio.com/docs/content/authoring/assessments/assessments-standard-code-tests/) documentation for details on how to configure it and look for the standard input example.
 
-### Source File Info
+### Source file info
 
 | Source code information|  |
 | :------ | :----------- |
 | Student code folder  | `challenge1` |
-| Test code folder  | None required as handled by Standard Assessment type |
+| Test code folder  | None required as handled by standard assessment type |
 
 

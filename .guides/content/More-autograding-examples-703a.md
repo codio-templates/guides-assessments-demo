@@ -1,1 +1,1 @@
-The examples on the following pages show variations on the Advanced Assessment method. 
+The examples on the following pages show variations on the advanced assessment method. 

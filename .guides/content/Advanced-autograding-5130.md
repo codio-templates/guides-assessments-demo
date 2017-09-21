@@ -18,14 +18,14 @@ echo "<h3>Program Output</h3>"
 cd /home/codio/workspace/challenge1
 ```
 
-Then the Java program is compiled, and if a compilation error occurred the script exits. The compilation errors are sent to standard out and will be captured by Codio and show in the guide.
+Then the java program is compiled, and if a compilation error occurred the script exits. The compilation errors are sent to standard out and will be captured by Codio and show in the guide.
 
 ```
 javac Challenge.java
 if [ $? -ne 0 ]; then exit 1; fi
 ```
 
-The test case calls the compiled Java program with arguments `10 20`, capturing the output and then tests this with the expected output.
+The test case calls the compiled hava program with arguments `10 20`, capturing the output and then tests this with the expected output.
 
 ```
 OUTPUT1=("$(java Challenge 10 20)")
@@ -39,7 +39,7 @@ if [ "$OUTPUT1" != "Hello World 30" ]; then
 fi
 ```
 
-### Source File Info
+### Source file info
 
 | Source code information|  |
 | :------ | :----------- |
