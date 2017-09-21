@@ -733,5 +733,41 @@
     "timestamp": 1483787878800
    }
   ]
+ },
+ {
+  "taskId": "math-stack-3654758967",
+  "points": 1,
+  "state": {
+   "answers": {
+    "ans1": "(x-6)*abs(x)"
+   }
+  },
+  "results": [
+   {
+    "answers": {
+     "ans1": "(x-6)*abs(x)"
+    },
+    "timestamp": 1505990207677,
+    "state": "pass"
+   }
+  ]
+ },
+ {
+  "taskId": "math-stack-2516492953",
+  "points": 1,
+  "state": {
+   "answers": {
+    "ans1": "(%pi/9+2/27)*x^3-x^2/9+(-%pi/3-4/9)*x-2*%pi/9+20/27"
+   }
+  },
+  "results": [
+   {
+    "answers": {
+     "ans1": "(%pi/9+2/27)*x^3-x^2/9+(-%pi/3-4/9)*x-2*%pi/9+20/27"
+    },
+    "timestamp": 1505990228577,
+    "state": "pass"
+   }
+  ]
  }
 ]

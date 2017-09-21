@@ -27,7 +27,7 @@
      "action": "close"
     },
     {
-     "path": ".guides/content/Basic-Text-efb2.md",
+     "path": ".guides/content/Basic-text-efb2.md",
      "panel": 0,
      "action": "open"
     }
@@ -46,7 +46,11 @@
    "title": "Bold, italic, underline etc.",
    "files": [
     {
-     "path": ".guides/content/Bold--Italic--Underline-etc--9f91.md",
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": ".guides/content/Bold--italic--underline-etc--9f91.md",
      "panel": 0,
      "action": "open"
     }
@@ -157,7 +161,7 @@
      "action": "close"
     },
     {
-     "path": ".guides/content/Mathematical-Notation-fbfa.md",
+     "path": ".guides/content/Mathematical-notation-fbfa.md",
      "panel": 0,
      "action": "open"
     }
@@ -176,7 +180,11 @@
    "title": "Code blocks & inserts",
    "files": [
     {
-     "path": ".guides/content/Code-Blocks---Inserts-0f4f.md",
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": ".guides/content/Code-blocks---inserts-0f4f.md",
      "panel": 0,
      "action": "open"
     }
@@ -194,6 +202,10 @@
    "id": "5bdbde08-0957-8b3b-7946-d03bb4ae9dc2",
    "title": "Links",
    "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
     {
      "path": ".guides/content/Links-5bdb.md",
      "panel": 0,
@@ -214,12 +226,11 @@
    "title": "Images",
    "files": [
     {
-     "path": ".guides/content/Images-536a.md",
-     "panel": 0,
-     "action": "open"
+     "path": "#tabs",
+     "action": "close"
     }
    ],
-   "layout": "",
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Images-536a.md",
@@ -238,7 +249,7 @@
      "action": "open"
     }
    ],
-   "layout": "",
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Videos-db8c.md",
@@ -252,12 +263,16 @@
    "title": "Lists",
    "files": [
     {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
      "path": ".guides/content/Lists-9ba2.md",
      "panel": 0,
      "action": "open"
     }
    ],
-   "layout": "",
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Lists-9ba2.md",
@@ -270,6 +285,10 @@
    "id": "57755279-5bdc-d4b4-08f6-f15e14f783e6",
    "title": "Definition lists",
    "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
     {
      "path": ".guides/content/Definition-lists-5775.md",
      "panel": 0,
@@ -290,7 +309,11 @@
    "title": "Hover text",
    "files": [
     {
-     "path": ".guides/content/Hover-Text-a8f8.md",
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": ".guides/content/Hover-text-a8f8.md",
      "panel": 0,
      "action": "open"
     }
@@ -309,7 +332,11 @@
    "title": "Horizontal rules",
    "files": [
     {
-     "path": ".guides/content/Horizontal-Rules-7e15.md",
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": ".guides/content/Horizontal-rules-7e15.md",
      "panel": 0,
      "action": "open"
     }
