@@ -7,7 +7,7 @@ Use the button below to test your code first.
 {Check It!|assessment}(code-output-compare-2313277420)
 
 ## Explanation
-Standard Autograding is a fantastic way of creating autograded code tests without needing to write a single line of code yourself. 
+Standard autograding is a fantastic way of creating autograded code tests without needing to write a single line of code yourself. 
 
 This example passes in arguments from the test to the student code and compares it with expected output. 
 
@@ -15,12 +15,12 @@ There are two (but there can be more) sets of argument data passed in to avoid s
 
 Multiple test runs are especially useful for testing different conditions that need to be taken into account by the student.
 
-You should refer to the [Standard Code Test](https://codio.com/docs/content/authoring/assessments/assessments-standard-code-tests/) documentation for details on how to configure it.
+You should refer to the [standard code test](https://codio.com/docs/content/authoring/assessments/assessments-standard-code-tests/) documentation for details on how to configure it.
 
-### Source Files
+### Source files
 
 | Source code information|  |
 | :------ | :----------- |
 | Student code  | `challenge1/Challenge.java` |
-| Test code folder  | None required as handled by Standard Assessment type |
+| Test code folder  | None required as handled by standard assessment type |
 

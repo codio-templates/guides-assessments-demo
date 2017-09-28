@@ -2,7 +2,7 @@
  "sections": [
   {
    "id": "77be67cd-91d5-1b47-4769-2a3fbd854a60",
-   "title": "Guide Basics",
+   "title": "Guide basics",
    "files": [
     {
      "path": "#tabs",
@@ -12,7 +12,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Guide-Basics-77be.md",
+   "content-file": ".guides/content/Guide-basics-77be.md",
    "chapter": true,
    "reset": [],
    "teacherOnly": false,
@@ -20,14 +20,14 @@
   },
   {
    "id": "efb2a43d-1b72-fc2c-f79c-3df14a194493",
-   "title": "Basic Text",
+   "title": "Basic text",
    "files": [
     {
      "path": "#tabs",
      "action": "close"
     },
     {
-     "path": ".guides/content/Basic-Text-efb2.md",
+     "path": ".guides/content/Basic-text-efb2.md",
      "panel": 0,
      "action": "open"
     }
@@ -35,7 +35,30 @@
    "layout": "2-panels",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Basic-Text-efb2.md",
+   "content-file": ".guides/content/Basic-text-efb2.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "9f919fea-f555-9524-a828-140e29880e5c",
+   "title": "Bold, italic, underline etc.",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": ".guides/content/Bold--italic--underline-etc--9f91.md",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Bold--italic--underline-etc--9f91.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -66,8 +89,12 @@
   },
   {
    "id": "42211979-821a-56fb-9922-3968078edaf6",
-   "title": "Run Buttons",
+   "title": "Run buttons",
    "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
     {
      "path": "debug/DebugDemo.java",
      "panel": 0,
@@ -77,7 +104,7 @@
    "layout": "2-panels",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Run-Buttons-4221.md",
+   "content-file": ".guides/content/Run-buttons-4221.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -131,14 +158,14 @@
   },
   {
    "id": "fbfa27b8-8a63-9804-1949-eb4618a99758",
-   "title": "Mathematical Notation",
+   "title": "Mathematical notation",
    "files": [
     {
      "path": "#tabs",
      "action": "close"
     },
     {
-     "path": ".guides/content/Mathematical-Notation-fbfa.md",
+     "path": ".guides/content/Mathematical-notation-fbfa.md",
      "panel": 0,
      "action": "open"
     }
@@ -146,15 +173,61 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Mathematical-Notation-fbfa.md",
+   "content-file": ".guides/content/Mathematical-notation-fbfa.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
    "learningObjectives": ""
   },
   {
-   "id": "3a1a0df7-af36-561d-e781-0addeef85350",
-   "title": "Basic Autograded Assessments",
+   "id": "0f4f3d06-8a93-a2c7-fa15-154fa4a8c292",
+   "title": "Code blocks & inserts",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": ".guides/content/Code-blocks---inserts-0f4f.md",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Code-blocks---inserts-0f4f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "5bdbde08-0957-8b3b-7946-d03bb4ae9dc2",
+   "title": "Links",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": ".guides/content/Links-5bdb.md",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Links-5bdb.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "536a6b08-92a5-cf25-bda2-94beda3fb485",
+   "title": "Images",
    "files": [
     {
      "path": "#tabs",
@@ -164,7 +237,136 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Basic-Autograded-Assessments-3a1a.md",
+   "content-file": ".guides/content/Images-536a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "db8c68af-5985-a89e-b8e7-0695c3a818e9",
+   "title": "Videos",
+   "files": [
+    {
+     "path": ".guides/content/Videos-db8c.md",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Videos-db8c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "9ba232e4-1048-c7c7-c511-a89607ab7104",
+   "title": "Lists",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": ".guides/content/Lists-9ba2.md",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Lists-9ba2.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "57755279-5bdc-d4b4-08f6-f15e14f783e6",
+   "title": "Definition lists",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": ".guides/content/Definition-lists-5775.md",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Definition-lists-5775.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "a8f83529-09f2-4200-606a-344592182a91",
+   "title": "Hover text",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": ".guides/content/Hover-text-a8f8.md",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Hover-text-a8f8.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "7e15b21f-9fcc-8710-69bc-cbbe114a29f3",
+   "title": "Horizontal rules",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": ".guides/content/Horizontal-rules-7e15.md",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Horizontal-rules-7e15.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "3a1a0df7-af36-561d-e781-0addeef85350",
+   "title": "Basic autograded assessments",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Basic-autograded-assessments-3a1a.md",
    "chapter": true,
    "reset": [],
    "teacherOnly": false,
@@ -172,7 +374,7 @@
   },
   {
    "id": "5b4ddff-eb28-e6a7-bda6-5d91c0162fff",
-   "title": "Multiple Choice",
+   "title": "Multiple choice",
    "files": [
     {
      "path": "#tabs",
@@ -182,7 +384,7 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Multiple-Choice-5b4d.md",
+   "content-file": ".guides/content/Multiple-choice-5b4d.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -195,6 +397,30 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Fill-in-the-blank-628e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "2a06c507-aaf1-c543-5d57-9aa6701bab6d",
+   "title": "Free text",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Free-text-2a06.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "306b835f-5365-5b5a-7319-451ebdae0245",
+   "title": "Math assessment",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Math-assessment-306b.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -220,7 +446,7 @@
   },
   {
    "id": "095ac474-301b-1cd6-b39d-61200a5aa339",
-   "title": "Standard Autograding - Argument",
+   "title": "Standard autograding - argument",
    "files": [
     {
      "path": "#tabs",
@@ -235,7 +461,7 @@
    "layout": "2-panels-tree",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Standard-Autograding---Argument-095a.md",
+   "content-file": ".guides/content/Standard-autograding---argument-095a.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -243,8 +469,12 @@
   },
   {
    "id": "8da8ba13-ad9a-03ae-3c7a-c9710ba5a8fb",
-   "title": "Standard Autograding - stdin",
+   "title": "Standard autograding - stdin",
    "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
     {
      "path": "stdin/AddNumbers.java",
      "panel": 0,
@@ -254,7 +484,7 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Standard-Autograding---stdin-8da8.md",
+   "content-file": ".guides/content/Standard-autograding---stdin-8da8.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -262,7 +492,7 @@
   },
   {
    "id": "5130a7ea-7014-9460-634c-644887d88a66",
-   "title": "Advanced Autograding",
+   "title": "Advanced autograding",
    "files": [
     {
      "path": "#tabs",
@@ -282,7 +512,7 @@
    "layout": "3-cell-tree",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Advanced-Autograding-5130.md",
+   "content-file": ".guides/content/Advanced-autograding-5130.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -290,7 +520,7 @@
   },
   {
    "id": "b380c24d-c856-9e75-ca9a-00226ce841ba",
-   "title": "Advanced - Partial Points",
+   "title": "Advanced - partial points",
    "files": [
     {
      "path": "#tabs",
@@ -310,7 +540,7 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Advanced---Partial-Points-b380.md",
+   "content-file": ".guides/content/Advanced---partial-points-b380.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
