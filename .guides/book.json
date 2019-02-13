@@ -1,0 +1,205 @@
+{
+ "name": "Guides Assessment Sandbox",
+ "children": [
+  {
+   "title": "Guide basics",
+   "id": "77be67cd-91d5-1b47-4769-2a3fbd854a60",
+   "pageId": "77be67cd-91d5-1b47-4769-2a3fbd854a60",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Basic text",
+     "id": "efb2a43d-1b72-fc2c-f79c-3df14a194493",
+     "pageId": "efb2a43d-1b72-fc2c-f79c-3df14a194493",
+     "type": "page"
+    },
+    {
+     "title": "Bold, italic, underline etc.",
+     "id": "9f919fea-f555-9524-a828-140e29880e5c",
+     "pageId": "9f919fea-f555-9524-a828-140e29880e5c",
+     "type": "page"
+    },
+    {
+     "title": "More text things",
+     "id": "553328d4-a0d0-2c47-fedb-ee53a4702a41",
+     "pageId": "553328d4-a0d0-2c47-fedb-ee53a4702a41",
+     "type": "page"
+    },
+    {
+     "title": "Run buttons",
+     "id": "42211979-821a-56fb-9922-3968078edaf6",
+     "pageId": "42211979-821a-56fb-9922-3968078edaf6",
+     "type": "page"
+    },
+    {
+     "title": "Tables",
+     "id": "aad4ad0b-8b89-b77c-e31e-e6ef52d02131",
+     "pageId": "aad4ad0b-8b89-b77c-e31e-e6ef52d02131",
+     "type": "page"
+    },
+    {
+     "title": "Callout boxes",
+     "id": "cb166abf-70af-39dc-227b-6e10a263b4e3",
+     "pageId": "cb166abf-70af-39dc-227b-6e10a263b4e3",
+     "type": "page"
+    },
+    {
+     "title": "Mathematical notation",
+     "id": "fbfa27b8-8a63-9804-1949-eb4618a99758",
+     "pageId": "fbfa27b8-8a63-9804-1949-eb4618a99758",
+     "type": "page"
+    },
+    {
+     "title": "Code blocks & inserts",
+     "id": "0f4f3d06-8a93-a2c7-fa15-154fa4a8c292",
+     "pageId": "0f4f3d06-8a93-a2c7-fa15-154fa4a8c292",
+     "type": "page"
+    },
+    {
+     "title": "Links",
+     "id": "5bdbde08-0957-8b3b-7946-d03bb4ae9dc2",
+     "pageId": "5bdbde08-0957-8b3b-7946-d03bb4ae9dc2",
+     "type": "page"
+    },
+    {
+     "title": "Images",
+     "id": "536a6b08-92a5-cf25-bda2-94beda3fb485",
+     "pageId": "536a6b08-92a5-cf25-bda2-94beda3fb485",
+     "type": "page"
+    },
+    {
+     "title": "Videos",
+     "id": "db8c68af-5985-a89e-b8e7-0695c3a818e9",
+     "pageId": "db8c68af-5985-a89e-b8e7-0695c3a818e9",
+     "type": "page"
+    },
+    {
+     "title": "Lists",
+     "id": "9ba232e4-1048-c7c7-c511-a89607ab7104",
+     "pageId": "9ba232e4-1048-c7c7-c511-a89607ab7104",
+     "type": "page"
+    },
+    {
+     "title": "Definition lists",
+     "id": "57755279-5bdc-d4b4-08f6-f15e14f783e6",
+     "pageId": "57755279-5bdc-d4b4-08f6-f15e14f783e6",
+     "type": "page"
+    },
+    {
+     "title": "Hover text",
+     "id": "a8f83529-09f2-4200-606a-344592182a91",
+     "pageId": "a8f83529-09f2-4200-606a-344592182a91",
+     "type": "page"
+    },
+    {
+     "title": "Horizontal rules",
+     "id": "7e15b21f-9fcc-8710-69bc-cbbe114a29f3",
+     "pageId": "7e15b21f-9fcc-8710-69bc-cbbe114a29f3",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Basic autograded assessments",
+   "id": "3a1a0df7-af36-561d-e781-0addeef85350",
+   "pageId": "3a1a0df7-af36-561d-e781-0addeef85350",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Multiple choice",
+     "id": "5b4ddff-eb28-e6a7-bda6-5d91c0162fff",
+     "pageId": "5b4ddff-eb28-e6a7-bda6-5d91c0162fff",
+     "type": "page"
+    },
+    {
+     "title": "Fill in the blank",
+     "id": "628e43a4-96a2-a7ca-285a-423a2e4a2280",
+     "pageId": "628e43a4-96a2-a7ca-285a-423a2e4a2280",
+     "type": "page"
+    },
+    {
+     "title": "Free text",
+     "id": "2a06c507-aaf1-c543-5d57-9aa6701bab6d",
+     "pageId": "2a06c507-aaf1-c543-5d57-9aa6701bab6d",
+     "type": "page"
+    },
+    {
+     "title": "Math assessment",
+     "id": "306b835f-5365-5b5a-7319-451ebdae0245",
+     "pageId": "306b835f-5365-5b5a-7319-451ebdae0245",
+     "type": "page"
+    },
+    {
+     "id": "f30cfe0b-ce64-aa18-3c16-d0bc5372aaed",
+     "title": "Parsons puzzle",
+     "pageId": "ef4a78be-f986-3697-3b99-714c61e2931e",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Autograding code",
+   "id": "7b35fd2c-e078-3e62-b81a-d9e5c042e867",
+   "pageId": "7b35fd2c-e078-3e62-b81a-d9e5c042e867",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Standard autograding - argument",
+     "id": "095ac474-301b-1cd6-b39d-61200a5aa339",
+     "pageId": "095ac474-301b-1cd6-b39d-61200a5aa339",
+     "type": "page"
+    },
+    {
+     "title": "Standard autograding - stdin",
+     "id": "8da8ba13-ad9a-03ae-3c7a-c9710ba5a8fb",
+     "pageId": "8da8ba13-ad9a-03ae-3c7a-c9710ba5a8fb",
+     "type": "page"
+    },
+    {
+     "title": "Advanced autograding",
+     "id": "5130a7ea-7014-9460-634c-644887d88a66",
+     "pageId": "5130a7ea-7014-9460-634c-644887d88a66",
+     "type": "page"
+    },
+    {
+     "title": "Advanced - partial points",
+     "id": "b380c24d-c856-9e75-ca9a-00226ce841ba",
+     "pageId": "b380c24d-c856-9e75-ca9a-00226ce841ba",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "More autograding examples",
+   "id": "703afcf9-092c-68c6-1c4a-f1efe4faf17b",
+   "pageId": "703afcf9-092c-68c6-1c4a-f1efe4faf17b",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "HTML test",
+     "id": "284739f1-483e-a030-514d-dac319c3b72b",
+     "pageId": "284739f1-483e-a030-514d-dac319c3b72b",
+     "type": "page"
+    },
+    {
+     "title": "Creating a test framework",
+     "id": "92cfd1ce-42e7-9a2c-a554-7e1e465bbfcc",
+     "pageId": "92cfd1ce-42e7-9a2c-a554-7e1e465bbfcc",
+     "type": "page"
+    },
+    {
+     "title": "Using 3rd party testing libraries",
+     "id": "3decb108-e74b-ddbc-6265-bf2f95adcfb8",
+     "pageId": "3decb108-e74b-ddbc-6265-bf2f95adcfb8",
+     "type": "page"
+    },
+    {
+     "title": "C code tested with python assessment",
+     "id": "bf0ba8dd-6aa8-4e61-9b5e-6b319fb1bdd2",
+     "pageId": "bf0ba8dd-6aa8-4e61-9b5e-6b319fb1bdd2",
+     "type": "page"
+    }
+   ]
+  }
+ ]
+}
