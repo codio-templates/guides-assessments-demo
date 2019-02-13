@@ -769,5 +769,25 @@
     "state": "pass"
    }
   ]
+ },
+ {
+  "taskId": "parsons-puzzle-2111061264",
+  "points": 0,
+  "state": {
+   "trashHash": "0_0-1_0-2_0-3_0",
+   "solutionHash": "-",
+   "toggleStates": "{}"
+  },
+  "results": []
+ },
+ {
+  "taskId": "parsons-puzzle-1975006843",
+  "points": 0,
+  "state": {
+   "trashHash": null,
+   "solutionHash": null,
+   "toggleStates": "{}"
+  },
+  "results": []
  }
 ]
