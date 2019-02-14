@@ -427,6 +427,18 @@
    "learningObjectives": ""
   },
   {
+   "id": "ef4a78be-f986-3697-3b99-714c61e2931e",
+   "title": "Parsons puzzle",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Parsons-puzzle-ef4a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
    "id": "7b35fd2c-e078-3e62-b81a-d9e5c042e867",
    "title": "Autograding code",
    "files": [
@@ -686,6 +698,12 @@
  "scripts": [],
  "lexikonTopic": "",
  "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
  "hideMenu": false,
- "allowGuideClose": false
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
 }
