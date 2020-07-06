@@ -203,6 +203,29 @@
    "learningObjectives": ""
   },
   {
+   "id": "0014e3c5-606a-1602-5913-abe8bd0a8763",
+   "title": "Collapsible Content",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": ".guides/content/Collapsible-Content-0014.md",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Collapsible-Content-0014.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
    "id": "5bdbde08-0957-8b3b-7946-d03bb4ae9dc2",
    "title": "Links",
    "files": [

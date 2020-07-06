@@ -1,4 +1,4 @@
-Please refer to the [Parsons Puzzle](https://codio.com/docs/content/authoring/assessments/parsons-puzzle) documentation for configuration details.
+Please refer to the [Parsons Puzzle](https://docs.codio.com/courses/assessments/#parsons-puzzle-assessments) documentation for configuration details.
 
 {Check It!|assessment}(parsons-puzzle-2111061264)
 

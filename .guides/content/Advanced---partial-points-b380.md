@@ -14,7 +14,7 @@ The way you send the partial score back to Codio is
 curl -s "$CODIO_PARTIAL_POINTS_URL&points=10" > /dev/null
 ```
 
-Please refer to the help (look towards the bottom) on [this page](https://codio.com/docs/content/authoring/assessments/assessments-code-tests/)
+Please refer to the help on [this page](https://docs.codio.com/courses/assessments/#partial-points)
 
 ### Source file info
 
