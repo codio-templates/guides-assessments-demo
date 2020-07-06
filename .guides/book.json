@@ -1,5 +1,5 @@
 {
- "name": "Guides Assessment Sandbox",
+ "name": "Demo Guides and Assessments",
  "children": [
   {
    "title": "Guide basics",
@@ -53,6 +53,12 @@
      "title": "Code blocks & inserts",
      "id": "0f4f3d06-8a93-a2c7-fa15-154fa4a8c292",
      "pageId": "0f4f3d06-8a93-a2c7-fa15-154fa4a8c292",
+     "type": "page"
+    },
+    {
+     "id": "d63222b3-987a-8ffa-0521-52a68e046d72",
+     "title": "Collapsible Content",
+     "pageId": "0014e3c5-606a-1602-5913-abe8bd0a8763",
      "type": "page"
     },
     {
@@ -121,12 +127,6 @@
      "title": "Free text",
      "id": "2a06c507-aaf1-c543-5d57-9aa6701bab6d",
      "pageId": "2a06c507-aaf1-c543-5d57-9aa6701bab6d",
-     "type": "page"
-    },
-    {
-     "title": "Math assessment",
-     "id": "306b835f-5365-5b5a-7319-451ebdae0245",
-     "pageId": "306b835f-5365-5b5a-7319-451ebdae0245",
      "type": "page"
     },
     {

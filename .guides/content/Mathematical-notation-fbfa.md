@@ -1,4 +1,4 @@
-Codio has LaTex support. Pleas search online for comprehensive examples of LaTex usage.
+Codio has LaTex support. Please search online for comprehensive examples of LaTex usage.
 
 ### Inline
 Inline math equations are encapsulated in a single `$` like this: $\omega = d\phi / dt$. 
