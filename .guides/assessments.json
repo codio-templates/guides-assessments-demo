@@ -371,17 +371,26 @@
   "source": {
    "name": "Turtle Graphics Grader",
    "showName": true,
-   "bloomsObjectiveLevel": "",
+   "instructions": "Construct a program by dragging and dropping code blocks into the provided space.\n\nThe constructed program should draw a triangle as shown below.",
+   "initial": "REPEAT 3 TIMES\n  forward(100)\n  left(120)\nENDREPEAT\n",
+   "options": "{\"sortableId\":\"sortable\",\"trashId\":\"sortableTrash\",\"max_wrong_lines\":1,\"turtleModelCode\":\"modelTurtle.forward(100)\\nmodelTurtle.left(120)\\nmodelTurtle.forward(100)\\nmodelTurtle.left(120)\\nmodelTurtle.forward(100)\\nmodelTurtle.left(120)\",\"executable_code\":\"for i in range(0,3):\\nmyTurtle.forward(100)\\nmyTurtle.left(120)\\npass\",\"programmingLang\":\"pseudo\"}",
+   "grader": "5",
    "guidance": "ANSWER AND RATIONALE TO STUDENT",
    "showGuidanceAfterResponse": false,
-   "showExpectedAnswer": false,
-   "instructions": "Construct a program by drag&amp;dropping and reordering lines from the\n            left to the right.\n            The constructed program should draw a triangle like shown below.",
-   "points": "10",
-   "learningObjectives": "",
+   "points": 10,
    "oneTimeTest": false,
-   "initial": "REPEAT 3 TIMES\n  forward(100)\n  left(120)\nENDREPEAT\n",
-   "options": "{\n  \"sortableId\": \"sortable\",\n  \"trashId\": \"sortableTrash\",\n  \"max_wrong_lines\": 1,\n  \"turtleModelCode\": \"modelTurtle.forward(100)\\nmodelTurtle.left(120)\\nmodelTurtle.forward(100)\\nmodelTurtle.left(120)\\nmodelTurtle.forward(100)\\nmodelTurtle.left(120)\",\n  \"executable_code\": \"for i in range(0,3):\\nmyTurtle.forward(100)\\nmyTurtle.left(120)\\npass\",\n  \"programmingLang\": \"pseudo\"\n}",
-   "grader": "5"
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Parsons Puzzle"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
   }
  },
  {
@@ -466,17 +475,26 @@
   "source": {
    "name": "Variable Check Grader",
    "showName": true,
-   "bloomsObjectiveLevel": "",
+   "instructions": "Construct a program that swaps the values of variables <code>x</code> and <code>y</code> using the helper variable <code>tmp</code>. You can change the names of the variables (<span class=\"jsparson-toggle\"></span>) by clicking them.",
+   "initial": "$$toggle::x::y::tmp$$ = $$toggle::x::y::tmp$$\n$$toggle::x::y::tmp$$ = $$toggle::x::y::tmp$$\n$$toggle::x::y::tmp$$ = $$toggle::x::y::tmp$$\n",
+   "options": "{\"sortableId\":\"sortable\",\"trashId\":\"sortableTrash\",\"vartests\":[{\"initcode\":\"x = 0\\ny=2\",\"code\":\"\",\"message\":\"Testing with initial variable values x = 0 and y = 2\",\"variables\":{\"x\":2}},{\"initcode\":\"x = 3\\ny=4\\n\",\"code\":\"\",\"message\":\"Testing with initial variable values x = 3 and y = 4\",\"variables\":{\"x\":4,\"y\":3}}],\"lang\":\"en\"}",
+   "grader": "2",
    "guidance": "ANSWER AND RATIONALE TO STUDENT",
    "showGuidanceAfterResponse": false,
-   "showExpectedAnswer": false,
-   "instructions": "Construct a program that swaps the values of variables <code>x</code> and <code>y</code> using the\n  helper variable <code>tmp</code>. You can change the names of the variables (<span class=\"jsparson-toggle\"></span>)\n  by clicking them.",
-   "points": "10",
-   "learningObjectives": "",
+   "points": 10,
    "oneTimeTest": false,
-   "initial": "$$toggle::x::y::tmp$$ = $$toggle::x::y::tmp$$\n$$toggle::x::y::tmp$$ = $$toggle::x::y::tmp$$\n$$toggle::x::y::tmp$$ = $$toggle::x::y::tmp$$\n",
-   "options": "{\n      \"sortableId\": \"sortable\",\n      \"trashId\": \"sortableTrash\",\n      \"vartests\": [{\"initcode\": \"x = 0\\ny=2\", \"code\": \"\", \"message\": \"Testing with initial variable values x = 0 and y = 2\", \"variables\": {\"x\": 2}},\n                   {\"initcode\": \"x = 3\\ny=4\\n\", \"code\": \"\", \"message\": \"Testing with initial variable values x = 3 and y = 4\", \"variables\": {\"x\": 4, \"y\": 3}}],\n      \"lang\": \"en\"\n    }",
-   "grader": "2"
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Parsons Puzzle"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
   }
  },
  {
@@ -485,17 +503,26 @@
   "source": {
    "name": "Unit Tests Grader",
    "showName": true,
-   "bloomsObjectiveLevel": "",
+   "instructions": "Your task is to construct a function which returns the index of the largest element in the array.",
+   "initial": "def maxindex(arg):\n ans = 0\n for i in range(len(arg)):\n if arg[i] > arg[ans]:\n ans = i\n while True:\npass\n return ans\n",
+   "options": "{\"sortableId\":\"sortable\",\"trashId\":\"sortableTrash\",\"unittests\":\"import unittestparson\\nclass myTests(unittestparson.unittest):\\n  def testOne(self):\\n    self.assertEqual(maxindex([0, 2, 4]),2,\\\"Calling function <code>maxindex([0, 2, 4])</code>.\\\")\\n    self.assertEqual(maxindex([7, 2, 4]),0,\\\"Calling function <code>maxindex([7, 2, 4])</code>.\\\")\\n    self.assertEqual(maxindex([7, 8, 4]),1,\\\"Calling function <code>maxindex([7, 8, 4])</code>.\\\")\\n  def testTwo(self):\\n    self.assertEqual(maxindex([0, 2, 4]),2,\\\"Calling function <code>maxindex([0, 2, 4])</code>.\\\")\\n    self.assertEqual(maxindex([7, 2, 4]),0,\\\"Calling function <code>maxindex([7, 2, 4])</code>.\\\")\\n    self.assertEqual(maxindex([7, 8, 4]),1,\\\"Calling function <code>maxindex([7, 8, 4])</code>.\\\")\\n_test_result = myTests().main()\"}",
+   "grader": "3",
    "guidance": "",
    "showGuidanceAfterResponse": false,
-   "showExpectedAnswer": false,
-   "instructions": "Your task is to construct a function which returns the index of the largest\n      element in the array.",
-   "points": "10",
-   "learningObjectives": "",
+   "points": 10,
    "oneTimeTest": false,
-   "initial": "def maxindex(arg):\n ans = 0\n for i in range(len(arg)):\n if arg[i] > arg[ans]:\n ans = i\n while True:\npass\n return ans\n",
-   "options": "{\n                  \"sortableId\": \"sortable\",\n                  \"trashId\": \"sortableTrash\",\n                  \"unittests\": \"import unittestparson\\nclass myTests(unittestparson.unittest):\\n  def testOne(self):\\n    self.assertEqual(maxindex([0, 2, 4]),2,\\\"Calling function <code>maxindex([0, 2, 4])</code>.\\\")\\n    self.assertEqual(maxindex([7, 2, 4]),0,\\\"Calling function <code>maxindex([7, 2, 4])</code>.\\\")\\n    self.assertEqual(maxindex([7, 8, 4]),1,\\\"Calling function <code>maxindex([7, 8, 4])</code>.\\\")\\n  def testTwo(self):\\n    self.assertEqual(maxindex([0, 2, 4]),2,\\\"Calling function <code>maxindex([0, 2, 4])</code>.\\\")\\n    self.assertEqual(maxindex([7, 2, 4]),0,\\\"Calling function <code>maxindex([7, 2, 4])</code>.\\\")\\n    self.assertEqual(maxindex([7, 8, 4]),1,\\\"Calling function <code>maxindex([7, 8, 4])</code>.\\\")\\n_test_result = myTests().main()\"\n      }",
-   "grader": "3"
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Parsons Puzzle"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
   }
  },
  {
