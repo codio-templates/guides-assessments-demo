@@ -23,15 +23,16 @@ if [ $? -ne 0 ]; then exit 1; fi
 echo "$OUTPUT1"
 
 if [ $OUTPUT1 -gt 66 ]; then
-  curl -s "$CODIO_PARTIAL_POINTS_V2_URL" -d points=10 -d format=md -d feedback=**A grade** > /dev/null
+  curl -s "$CODIO_PARTIAL_POINTS_V2_URL" -d points=10 -d format=txt -d feedback="A grade" > /dev/null
   exit 0
 fi 
 if [ $OUTPUT1 -gt 33 ]; then
-  curl -s "$CODIO_PARTIAL_POINTS_V2_URL" -d points=5 -d format=md -d feedback=**B grade**  > /dev/null
+  curl -s "$CODIO_PARTIAL_POINTS_V2_URL" -d points=5 -d format=txt -d feedback="B grade"  > /dev/null
   exit 0
 fi
 
-curl -s "$CODIO_PARTIAL_POINTS_V2_URL" -d points=0 -d format=md -d feedback=**Fail** > /dev/null
+curl -s "$CODIO_PARTIAL_POINTS_V2_URL" -d points=0 -d format=txt -d feedback="Fail" > /dev/null
+
 
 exit 1
 
