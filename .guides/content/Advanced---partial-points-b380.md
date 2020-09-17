@@ -11,10 +11,11 @@ This advanced code test shows how to award any value between 0 and the maximum p
 The way you send the partial score back to Codio is
 
 ```bash
-curl -s "$CODIO_PARTIAL_POINTS_URL&points=10" > /dev/null
+curl -s "$CODIO_PARTIAL_POINTS_V2_URL" -d points=10 -d format=txt -d feedback="A grade"  > /dev/null
 ```
+You can send back feedback in different formats HTML/Markdown/plainText
 
-Please refer to the help on [this page](https://docs.codio.com/courses/assessments/#partial-points)
+Please refer to the help on [this page](https://docs.codio.com/courses/assessments/#autograding-enhancements) for more on this
 
 ### Source file info
 
