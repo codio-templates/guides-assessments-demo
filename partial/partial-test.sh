@@ -24,15 +24,15 @@ echo "$OUTPUT1"
 
 if [ $OUTPUT1 -gt 66 ]; then
   echo "A grade"
-  curl -s "$CODIO_PARTIAL_POINTS_URL&points=10"  > /dev/null
+  curl -s "$CODIO_PARTIAL_POINTS_V2_URL&points=10"  > /dev/null
   exit 0
 fi 
 if [ $OUTPUT1 -gt 33 ]; then
   echo "B grade"
-  curl -s "$CODIO_PARTIAL_POINTS_URL&points=5"  > /dev/null
+  curl -s "$CODIO_PARTIAL_POINTS_V2_URL&points=5"  > /dev/null
   exit 0
 fi
 
-curl -s "$CODIO_PARTIAL_POINTS_URL&points=0"  > /dev/null
+curl -s "$CODIO_PARTIAL_POINTS_V2_URL&points=0"  > /dev/null
 echo "Failed I'm afraid!"
 exit 1
