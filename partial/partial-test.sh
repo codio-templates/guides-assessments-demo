@@ -2,7 +2,7 @@
 
 # partial/partial-test.sh
 
-echo "<h3>Program Output</h3>"
+
 
 # We change the directory on the linux box to the location of the student's file
 cd /home/codio/workspace/partial
