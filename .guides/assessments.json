@@ -3,14 +3,33 @@
   "type": "fill-in-the-blanks",
   "taskId": "fill-in-the-blanks-4179884427",
   "source": {
+   "name": "Fill in the blanks (show possible values)",
    "showName": true,
-   "answers": [],
+   "instructions": "Complete the definition.",
+   "showValues": true,
+   "text": "A prime number (or a prime) is a <<<natural>>> number greater than <<<1>>> that has no positive divisors other than <<<1 and itself>>>.",
+   "distractors": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 1,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Fill in the Blanks"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": "",
    "tokens": {
     "blank": [
      "natural",
      "1",
-     "1",
-     "itself"
+     "1 and itself"
     ],
     "text": [
      "A prime number (or a prime) is a ",
@@ -19,16 +38,10 @@
      0,
      " that has no positive divisors other than ",
      0,
-     " and ",
-     0,
      "."
-    ]
-   },
-   "text": "A prime number (or a prime) is a <<<natural>>> number greater than <<<1>>> that has no positive divisors other than <<<1>>> and <<<itself>>>.",
-   "showValues": true,
-   "points": 1,
-   "instructions": "Complete the definition.",
-   "name": "Fill in the blanks (show possible values)"
+    ],
+    "regexPositions": []
+   }
   }
  },
  {
