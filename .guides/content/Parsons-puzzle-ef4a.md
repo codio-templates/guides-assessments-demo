@@ -1,4 +1,4 @@
-Please refer to the [Parsons Puzzle](https://docs.codio.com/courses/assessments/#parsons-puzzle-assessments) documentation for configuration details.
+Please refer to the [Parsons Puzzle](https://docs.codio.com/instructors/authoring/assessments/parsons-puzzle.html) documentation for configuration details.
 
 ### Line Based Grader
 The line based grader is a way to quickly and easily make Parson’s problems with a single right answer. This grader does not require you to use a certain programming language which makes it a great way to abstract processes and workflows one level higher than actual code.
