@@ -13,6 +13,6 @@ Codio Guide has 2 modes :
 If you have not yet started work on a Guide, simply select the edit option and you can start immediately.
 
 ## Documentation
-You can find documentation for Guide [here](https://docs.codio.com/courses/authoring/)
+You can find documentation for Guide [here](https://docs.codio.com/authoring.html#introduction-to-guides)
 
-If you find any anomalies, and there will be some due to the many changes we are currently making to Guides, then please [contact us](https://docs.codio.com/dashboard/support/) with details and we will get this updated quickly.
+If you find any anomalies, and there will be some due to the many changes we are currently making to Guides, then please [contact us](https://docs.codio.com/instructors/getstarted/support/support.html) with details and we will get this updated quickly.

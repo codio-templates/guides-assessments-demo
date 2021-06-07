@@ -15,7 +15,7 @@ There are two (but there can be more) sets of argument data passed in to avoid s
 
 Multiple test runs are especially useful for testing different conditions that need to be taken into account by the student.
 
-You should refer to the [standard code test](https://docs.codio.com/courses/assessments/#standard-code-tests) documentation for details on how to configure it.
+You should refer to the [standard code test](https://docs.codio.com/instructors/authoring/assessments/standard-code-test.html) documentation for details on how to configure it.
 
 ### Source files
 
