@@ -1,0 +1,19 @@
+{
+	"source": {
+		"bloomsObjectiveLevel": "",
+		"grader": "5",
+		"guidance": "",
+		"initial": "forward(100)\nleft(120)\nforward(100)\nleft(120)\nforward(100)\nleft(120)",
+		"instructions": "Re order the commands so that the turtle draws a triangle",
+		"learningObjectives": "",
+		"name": "Turtle Triangle",
+		"oneTimeTest": false,
+		"options": "{}",
+		"points": "1",
+		"showExpectedAnswer": false,
+		"showGuidanceAfterResponse": false,
+		"showName": true
+	},
+	"taskId": "parsons-puzzle-1975006843",
+	"type": "parsons-puzzle"
+}

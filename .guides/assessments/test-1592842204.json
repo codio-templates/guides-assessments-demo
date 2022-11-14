@@ -1,0 +1,42 @@
+{
+	"source": {
+		"arePartialPointsAllowed": true,
+		"bloomsObjectiveLevel": "",
+		"command": "partial/partial-test.sh",
+		"guidance": "",
+		"instructions": "Write some code that outputs a random number between 0 and 100. This is not really a valid test but a demo only to show how partial points works.",
+		"learningObjectives": "",
+		"metadata": {
+			"files": [
+				"partial/Challenge.java",
+				"partial/partial-test.sh"
+			],
+			"opened": [
+				{
+					"content": "partial/Challenge.java",
+					"panelNumber": 0,
+					"type": "file"
+				},
+				{
+					"content": "partial/partial-test.sh",
+					"panelNumber": 1,
+					"type": "file"
+				}
+			],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Advanced Code Test"
+				}
+			]
+		},
+		"name": "Partial",
+		"oneTimeTest": false,
+		"points": 100,
+		"showGuidanceAfterResponse": false,
+		"showName": false,
+		"timeoutSeconds": 40
+	},
+	"taskId": "test-1592842204",
+	"type": "test"
+}

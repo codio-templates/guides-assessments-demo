@@ -1,0 +1,19 @@
+{
+	"source": {
+		"bloomsObjectiveLevel": "",
+		"grader": "1",
+		"guidance": "",
+		"initial": "1\n22\n333\n4444\n55555",
+		"instructions": "test\n\n",
+		"learningObjectives": "",
+		"name": "linebased3",
+		"oneTimeTest": false,
+		"options": "{ \n  \"sortableId\": \"sortable\",\n  \"trashId\": \"sortableTrash\",\n  \"max_wrong_lines\": 1,\n  \"feedback_cb\" : \"displayErrors\",\n  \"can_indent\": false\n  \n  \n}",
+		"points": "10",
+		"showExpectedAnswer": false,
+		"showGuidanceAfterResponse": false,
+		"showName": true
+	},
+	"taskId": "parsons-puzzle-3464569959",
+	"type": "parsons-puzzle"
+}

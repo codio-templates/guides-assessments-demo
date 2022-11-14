@@ -1,0 +1,31 @@
+{
+	"source": {
+		"command": "java -classpath challenge1 Challenge",
+		"instructions": "",
+		"name": "Standard (argument)",
+		"oneTimeTest": false,
+		"options": {
+			"ignoreCase": false,
+			"ignoreNewline": true,
+			"ignoreWhitespaces": true,
+			"timeout": 30
+		},
+		"points": 1,
+		"preExecuteCommand": "javac challenge1/Challenge.java",
+		"sequence": [
+			{
+				"arguments": "1 4",
+				"input": "",
+				"output": "Hello World 5"
+			},
+			{
+				"arguments": "99 100",
+				"input": "",
+				"output": "Hello World 199"
+			}
+		],
+		"showName": false
+	},
+	"taskId": "code-output-compare-2313277420",
+	"type": "code-output-compare"
+}

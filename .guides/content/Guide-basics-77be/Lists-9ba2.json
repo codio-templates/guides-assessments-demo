@@ -1,0 +1,23 @@
+{
+	"chapter": false,
+	"contentType": "markdown",
+	"files": [
+		{
+			"action": "close",
+			"path": "#tabs"
+		},
+		{
+			"action": "open",
+			"panel": 0,
+			"path": ".guides/content/Lists-9ba2.md"
+		}
+	],
+	"id": "9ba232e4-1048-c7c7-c511-a89607ab7104",
+	"layout": "2-panels",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Lists",
+	"type": "page"
+}

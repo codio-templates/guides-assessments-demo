@@ -1,0 +1,39 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "56e003bd40f757f006946549",
+				"answer": "1",
+				"correct": true
+			},
+			{
+				"_id": "56e003bd40f757f006946548",
+				"answer": "4",
+				"correct": true
+			},
+			{
+				"_id": "56e003bd40f757f006946547",
+				"answer": "11",
+				"correct": false
+			},
+			{
+				"_id": "56e003bd40f757f006946546",
+				"answer": "37",
+				"correct": false
+			}
+		],
+		"bloomsObjectiveLevel": "",
+		"guidance": "Correct Answer: **1** \u0026 **4**",
+		"incorrectPoints": "0",
+		"instructions": "Which numbers are not primes?",
+		"learningObjectives": "",
+		"multipleResponse": true,
+		"name": "MCQ with Multiple Responses ",
+		"points": "1",
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": true
+	},
+	"taskId": "multiple-choice-3362447361",
+	"type": "multiple-choice"
+}

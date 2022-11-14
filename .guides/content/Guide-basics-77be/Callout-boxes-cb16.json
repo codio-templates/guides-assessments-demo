@@ -1,0 +1,23 @@
+{
+	"chapter": false,
+	"contentType": "markdown",
+	"files": [
+		{
+			"action": "close",
+			"path": "#tabs"
+		},
+		{
+			"action": "open",
+			"panel": 0,
+			"path": ".guides/content/Callout-boxes-cb16.md"
+		}
+	],
+	"id": "cb166abf-70af-39dc-227b-6e10a263b4e3",
+	"layout": "",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Callout boxes",
+	"type": "page"
+}

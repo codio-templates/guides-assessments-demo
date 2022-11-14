@@ -1,0 +1,28 @@
+{
+	"chapter": false,
+	"contentType": "markdown",
+	"files": [
+		{
+			"action": "close",
+			"path": "#tabs"
+		},
+		{
+			"action": "open",
+			"panel": 0,
+			"path": "challenge5/challenge5.c"
+		},
+		{
+			"action": "open",
+			"panel": 1,
+			"path": "challenge5/test.py"
+		}
+	],
+	"id": "bf0ba8dd-6aa8-4e61-9b5e-6b319fb1bdd2",
+	"layout": "",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "C code tested with python assessment",
+	"type": "page"
+}

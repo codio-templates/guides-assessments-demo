@@ -1,0 +1,19 @@
+{
+	"source": {
+		"bloomsObjectiveLevel": "",
+		"grader": "1",
+		"guidance": "ANSWER AND RATIONALE TO STUDENT",
+		"initial": "def is_true(boolean_value):\n  if boolean_value:\n    return True\n  return False\n  return true #distractor\n",
+		"instructions": "\u003cp\u003eConstruct a function by drag\u0026amp;dropping and reordering lines from the\n            left to the right.\n            The constructed function should return True if the parameter is True and\n            return False otherwise.\u003c/p\u003e\n        \u003cp\u003e\u003cstrong\u003eNote:\u003c/strong\u003e The correct solution is obviously a dumb way to do\n            it. This exercise is merely trying to give an example of a Parson's\n            puzzle with js-parsons, not teach you Python :)\u003c/p\u003e",
+		"learningObjectives": "",
+		"name": "line based grader",
+		"oneTimeTest": false,
+		"options": "{\n  \"sortableId\": \"sortable\",\n  \"trashId\": \"sortableTrash\",\n  \"max_wrong_lines\": 1\n}",
+		"points": "10",
+		"showExpectedAnswer": false,
+		"showGuidanceAfterResponse": false,
+		"showName": true
+	},
+	"taskId": "parsons-puzzle-1061393720",
+	"type": "parsons-puzzle"
+}

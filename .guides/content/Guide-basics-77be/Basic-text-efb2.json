@@ -1,0 +1,23 @@
+{
+	"chapter": false,
+	"contentType": "markdown",
+	"files": [
+		{
+			"action": "close",
+			"path": "#tabs"
+		},
+		{
+			"action": "open",
+			"panel": 0,
+			"path": ".guides/content/Basic-text-efb2.md"
+		}
+	],
+	"id": "efb2a43d-1b72-fc2c-f79c-3df14a194493",
+	"layout": "2-panels",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Basic text",
+	"type": "page"
+}

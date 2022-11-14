@@ -1,0 +1,28 @@
+{
+	"chapter": false,
+	"contentType": "markdown",
+	"files": [
+		{
+			"action": "close",
+			"path": "#tabs"
+		},
+		{
+			"action": "open",
+			"panel": 0,
+			"path": "challenge4/challenge.html"
+		},
+		{
+			"action": "open",
+			"panel": 1,
+			"path": "challenge4/test4.js"
+		}
+	],
+	"id": "284739f1-483e-a030-514d-dac319c3b72b",
+	"layout": "3-cell-tree",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "HTML test",
+	"type": "page"
+}

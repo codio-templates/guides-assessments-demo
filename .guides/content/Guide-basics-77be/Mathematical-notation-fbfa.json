@@ -1,0 +1,23 @@
+{
+	"chapter": false,
+	"contentType": "markdown",
+	"files": [
+		{
+			"action": "close",
+			"path": "#tabs"
+		},
+		{
+			"action": "open",
+			"panel": 0,
+			"path": ".guides/content/Mathematical-notation-fbfa.md"
+		}
+	],
+	"id": "fbfa27b8-8a63-9804-1949-eb4618a99758",
+	"layout": "",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Mathematical notation",
+	"type": "page"
+}

@@ -1,0 +1,42 @@
+{
+	"source": {
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"instructions": "How users can enter code with/without spacing using regular expression support.  `i==0` or `i == 0` can be entered",
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Fill in the Blanks"
+				}
+			]
+		},
+		"name": "Fill in the blanks (hide possible values)",
+		"points": 100,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": true,
+		"showValues": false,
+		"text": "Enter code : \u003c\u003c\u003c/i ?== ?0/\u003e\u003e\u003e",
+		"tokens": {
+			"blank": [
+				{
+					"type": "regEx",
+					"value": "/i ?== ?0/"
+				}
+			],
+			"regexPositions": [
+				0
+			],
+			"text": [
+				"Enter code : ",
+				0
+			]
+		}
+	},
+	"taskId": "fill-in-the-blanks-539535015",
+	"type": "fill-in-the-blanks"
+}

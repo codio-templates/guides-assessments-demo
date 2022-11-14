@@ -1,0 +1,17 @@
+{
+	"source": {
+		"arePartialPointsAllowed": true,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"instructions": "Please describe in no more than 100 words the dangers of the **Dark Web**",
+		"learningObjectives": "",
+		"name": "Free Text Example",
+		"oneTimeTest": false,
+		"points": 20,
+		"previewType": "NONE",
+		"showGuidanceAfterResponse": false,
+		"showName": true
+	},
+	"taskId": "free-text-432490137",
+	"type": "free-text"
+}

@@ -1,0 +1,13 @@
+{
+	"source": {
+		"arePartialPointsAllowed": false,
+		"command": "challenge1/advanced-test.sh",
+		"instructions": "Write a program that receives two numeric arguments, a and b, and outputs a single string with the value \"Hello World \" + (a + b).",
+		"name": "Advanced Test (bash)",
+		"oneTimeTest": false,
+		"points": 1,
+		"showName": false
+	},
+	"taskId": "test-1883631226",
+	"type": "test"
+}

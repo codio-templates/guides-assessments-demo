@@ -1,0 +1,23 @@
+{
+	"chapter": false,
+	"contentType": "markdown",
+	"files": [
+		{
+			"action": "close",
+			"path": "#tabs"
+		},
+		{
+			"action": "open",
+			"panel": 0,
+			"path": ".guides/content/Horizontal-rules-7e15.md"
+		}
+	],
+	"id": "7e15b21f-9fcc-8710-69bc-cbbe114a29f3",
+	"layout": "",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Horizontal rules",
+	"type": "page"
+}

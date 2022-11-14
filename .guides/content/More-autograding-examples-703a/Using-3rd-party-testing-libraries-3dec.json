@@ -1,0 +1,28 @@
+{
+	"chapter": false,
+	"contentType": "markdown",
+	"files": [
+		{
+			"action": "close",
+			"path": "#tabs"
+		},
+		{
+			"action": "open",
+			"panel": 0,
+			"path": "challenge3/challenge.js"
+		},
+		{
+			"action": "open",
+			"panel": 1,
+			"path": "challenge3/test3.js"
+		}
+	],
+	"id": "3decb108-e74b-ddbc-6265-bf2f95adcfb8",
+	"layout": "3-cell-tree",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Using 3rd party testing libraries",
+	"type": "page"
+}

@@ -1,0 +1,28 @@
+{
+	"chapter": false,
+	"contentType": "markdown",
+	"files": [
+		{
+			"action": "close",
+			"path": "#tabs"
+		},
+		{
+			"action": "open",
+			"panel": 0,
+			"path": "challenge1/Challenge.java"
+		},
+		{
+			"action": "open",
+			"panel": 1,
+			"path": "challenge1/advanced-test.sh"
+		}
+	],
+	"id": "5130a7ea-7014-9460-634c-644887d88a66",
+	"layout": "3-cell-tree",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Advanced autograding",
+	"type": "page"
+}

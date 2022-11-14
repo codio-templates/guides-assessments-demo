@@ -1,0 +1,19 @@
+{
+	"source": {
+		"bloomsObjectiveLevel": "",
+		"grader": "4",
+		"guidance": "ANSWER AND RATIONALE TO STUDENT",
+		"initial": "IF $$toggle::a::b$$ $$toggle::\u003c::\u003e::\u003c\u003e$$ b THEN\n  min := a\nELSE\n  min := b\nENDIF",
+		"instructions": "Construct a function by drag\u0026amp;dropping and reordering lines from the\n            left to the right.\n            The constructed function should set the value of variable min to be the smaller of variables a and b.",
+		"learningObjectives": "",
+		"name": "language translation grader 2",
+		"oneTimeTest": false,
+		"options": "{\n                \"sortableId\": \"sortable\",\n                \"trashId\": \"sortableTrash\",\n                \"max_wrong_lines\": 1,\n                \"vartests\": [{\"initcode\": \"min = None\\na = 0\\nb = 2\", \"code\": \"\", \"message\": \"Testing with a = 0 ja b = 2\", \"variables\": {\"min\": 0}},\n                    {\"initcode\": \"min = None\\na = 7\\nb = 4\\n\", \"code\": \"\", \"message\": \"Testing with a = 7 ja b = 4\",\n                      \"variables\": {\"min\": 4}}],\n                \"executable_code\": \"if $$toggle$$ $$toggle::\u003c::\u003e::!=$$ b:\\nmin = a\\nelse:\\nmin = b\\n  pass\",\n                \"programmingLang\": \"pseudo\"\n            }",
+		"points": "10",
+		"showExpectedAnswer": false,
+		"showGuidanceAfterResponse": false,
+		"showName": true
+	},
+	"taskId": "parsons-puzzle-3785944520",
+	"type": "parsons-puzzle"
+}

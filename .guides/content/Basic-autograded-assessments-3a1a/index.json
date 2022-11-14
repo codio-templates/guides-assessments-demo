@@ -1,0 +1,24 @@
+{
+	"chapter": true,
+	"contentType": "markdown",
+	"files": [
+		{
+			"action": "close",
+			"path": "#tabs"
+		}
+	],
+	"id": "3a1a0df7-af36-561d-e781-0addeef85350",
+	"layout": "1-panel",
+	"learningObjectives": "",
+	"order": [
+		"Multiple-choice-5b4d",
+		"Fill-in-the-blank-628e",
+		"Free-text-2a06",
+		"Parsons-puzzle-f30c"
+	],
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Basic autograded assessments",
+	"type": "chapter"
+}

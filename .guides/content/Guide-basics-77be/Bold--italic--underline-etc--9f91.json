@@ -1,0 +1,23 @@
+{
+	"chapter": false,
+	"contentType": "markdown",
+	"files": [
+		{
+			"action": "close",
+			"path": "#tabs"
+		},
+		{
+			"action": "open",
+			"panel": 0,
+			"path": ".guides/content/Bold--italic--underline-etc--9f91.md"
+		}
+	],
+	"id": "9f919fea-f555-9524-a828-140e29880e5c",
+	"layout": "",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Bold, italic, underline etc.",
+	"type": "page"
+}

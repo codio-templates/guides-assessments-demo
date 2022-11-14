@@ -1,0 +1,28 @@
+{
+	"source": {
+		"bloomsObjectiveLevel": "",
+		"grader": "3",
+		"guidance": "",
+		"initial": "def maxindex(arg):\n ans = 0\n for i in range(len(arg)):\n if arg[i] \u003e arg[ans]:\n ans = i\n while True:\npass\n return ans\n",
+		"instructions": "Your task is to construct a function which returns the index of the largest element in the array.",
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Parsons Puzzle"
+				}
+			]
+		},
+		"name": "Unit Tests Grader",
+		"oneTimeTest": false,
+		"options": "{\"sortableId\":\"sortable\",\"trashId\":\"sortableTrash\",\"unittests\":\"import unittestparson\\nclass myTests(unittestparson.unittest):\\n  def testOne(self):\\n    self.assertEqual(maxindex([0, 2, 4]),2,\\\"Calling function \u003ccode\u003emaxindex([0, 2, 4])\u003c/code\u003e.\\\")\\n    self.assertEqual(maxindex([7, 2, 4]),0,\\\"Calling function \u003ccode\u003emaxindex([7, 2, 4])\u003c/code\u003e.\\\")\\n    self.assertEqual(maxindex([7, 8, 4]),1,\\\"Calling function \u003ccode\u003emaxindex([7, 8, 4])\u003c/code\u003e.\\\")\\n  def testTwo(self):\\n    self.assertEqual(maxindex([0, 2, 4]),2,\\\"Calling function \u003ccode\u003emaxindex([0, 2, 4])\u003c/code\u003e.\\\")\\n    self.assertEqual(maxindex([7, 2, 4]),0,\\\"Calling function \u003ccode\u003emaxindex([7, 2, 4])\u003c/code\u003e.\\\")\\n    self.assertEqual(maxindex([7, 8, 4]),1,\\\"Calling function \u003ccode\u003emaxindex([7, 8, 4])\u003c/code\u003e.\\\")\\n_test_result = myTests().main()\"}",
+		"points": 10,
+		"showGuidanceAfterResponse": false,
+		"showName": true
+	},
+	"taskId": "parsons-puzzle-4136203886",
+	"type": "parsons-puzzle"
+}
