@@ -1,0 +1,23 @@
+{
+	"chapter": false,
+	"contentType": "markdown",
+	"files": [
+		{
+			"action": "close",
+			"path": "#tabs"
+		},
+		{
+			"action": "open",
+			"panel": 0,
+			"path": "stdin/AddNumbers.java"
+		}
+	],
+	"id": "8da8ba13-ad9a-03ae-3c7a-c9710ba5a8fb",
+	"layout": "",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Standard autograding - stdin",
+	"type": "page"
+}

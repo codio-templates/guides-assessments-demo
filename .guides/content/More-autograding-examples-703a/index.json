@@ -1,0 +1,24 @@
+{
+	"chapter": true,
+	"contentType": "markdown",
+	"files": [
+		{
+			"action": "close",
+			"path": "#tabs"
+		}
+	],
+	"id": "703afcf9-092c-68c6-1c4a-f1efe4faf17b",
+	"layout": "1-panel",
+	"learningObjectives": "",
+	"order": [
+		"HTML-test-2847",
+		"Creating-a-test-framework-92cf",
+		"Using-3rd-party-testing-libraries-3dec",
+		"C-code-tested-with-python-assessment-bf0b"
+	],
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "More autograding examples",
+	"type": "chapter"
+}

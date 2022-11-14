@@ -1,0 +1,13 @@
+{
+	"source": {
+		"arePartialPointsAllowed": false,
+		"command": "mocha challenge3/test3.js",
+		"instructions": "JavaScript's Array.indexOf method should return -1 if no value is supplied. Complete the expected behaviour.",
+		"name": "JavaScript test using Mocha",
+		"oneTimeTest": false,
+		"points": 1,
+		"showName": true
+	},
+	"taskId": "test-857809534",
+	"type": "test"
+}

@@ -1,0 +1,34 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "56e0037f89191cb269f5b60f",
+				"answer": "1",
+				"correct": true
+			},
+			{
+				"_id": "56e0037f89191cb269f5b60e",
+				"answer": "2",
+				"correct": false
+			},
+			{
+				"_id": "56e0037f89191cb269f5b60d",
+				"answer": "11",
+				"correct": false
+			}
+		],
+		"bloomsObjectiveLevel": "",
+		"guidance": "Correct Answer: **1**",
+		"incorrectPoints": "0",
+		"instructions": "Which number is not a prime?",
+		"learningObjectives": "",
+		"multipleResponse": false,
+		"name": "MCQ with Single Response",
+		"points": "1",
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": true
+	},
+	"taskId": "multiple-choice-3851013076",
+	"type": "multiple-choice"
+}

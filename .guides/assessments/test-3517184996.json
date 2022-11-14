@@ -1,0 +1,13 @@
+{
+	"source": {
+		"arePartialPointsAllowed": false,
+		"command": "node challenge4/test4.js",
+		"instructions": "Create an unordered list with 3 list items.",
+		"name": "Unordered lists",
+		"oneTimeTest": false,
+		"points": 1,
+		"showName": true
+	},
+	"taskId": "test-3517184996",
+	"type": "test"
+}

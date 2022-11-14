@@ -1,0 +1,36 @@
+{
+	"source": {
+		"command": "java -classpath stdin AddNumbers",
+		"instructions": "When you have tested your code and are happy with it, press the button below.",
+		"name": "Stdin",
+		"oneTimeTest": false,
+		"options": {
+			"ignoreCase": true,
+			"ignoreNewline": true,
+			"ignoreWhitespaces": true,
+			"timeout": 30
+		},
+		"points": 1,
+		"preExecuteCommand": "javac stdin/AddNumbers.java",
+		"sequence": [
+			{
+				"arguments": "",
+				"input": "1\n2",
+				"output": "first number    :\nsecond number         :\ntotal:3.0"
+			},
+			{
+				"arguments": "",
+				"input": "1.456\n2",
+				"output": "first number    :\nsecond number         :\ntotal:3.456"
+			},
+			{
+				"arguments": "",
+				"input": "100\n200",
+				"output": "first number    :\nsecond number         :\ntotal:300.0"
+			}
+		],
+		"showName": true
+	},
+	"taskId": "code-output-compare-1758926380",
+	"type": "code-output-compare"
+}

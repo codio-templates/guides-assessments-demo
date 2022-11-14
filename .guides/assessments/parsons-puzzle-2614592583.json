@@ -1,0 +1,28 @@
+{
+	"source": {
+		"bloomsObjectiveLevel": "",
+		"grader": "2",
+		"guidance": "ANSWER AND RATIONALE TO STUDENT",
+		"initial": "$$toggle::x::y::tmp$$ = $$toggle::x::y::tmp$$\n$$toggle::x::y::tmp$$ = $$toggle::x::y::tmp$$\n$$toggle::x::y::tmp$$ = $$toggle::x::y::tmp$$\n",
+		"instructions": "Construct a program that swaps the values of variables \u003ccode\u003ex\u003c/code\u003e and \u003ccode\u003ey\u003c/code\u003e using the helper variable \u003ccode\u003etmp\u003c/code\u003e. You can change the names of the variables (\u003cspan class=\"jsparson-toggle\"\u003e\u003c/span\u003e) by clicking them.",
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Parsons Puzzle"
+				}
+			]
+		},
+		"name": "Variable Check Grader",
+		"oneTimeTest": false,
+		"options": "{\"sortableId\":\"sortable\",\"trashId\":\"sortableTrash\",\"vartests\":[{\"initcode\":\"x = 0\\ny=2\",\"code\":\"\",\"message\":\"Testing with initial variable values x = 0 and y = 2\",\"variables\":{\"x\":2}},{\"initcode\":\"x = 3\\ny=4\\n\",\"code\":\"\",\"message\":\"Testing with initial variable values x = 3 and y = 4\",\"variables\":{\"x\":4,\"y\":3}}],\"lang\":\"en\"}",
+		"points": 10,
+		"showGuidanceAfterResponse": false,
+		"showName": true
+	},
+	"taskId": "parsons-puzzle-2614592583",
+	"type": "parsons-puzzle"
+}

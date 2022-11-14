@@ -1,0 +1,28 @@
+{
+	"chapter": false,
+	"contentType": "markdown",
+	"files": [
+		{
+			"action": "close",
+			"path": "#tabs"
+		},
+		{
+			"action": "open",
+			"panel": 0,
+			"path": "partial/Challenge.java"
+		},
+		{
+			"action": "open",
+			"panel": 1,
+			"path": "partial/partial-test.sh"
+		}
+	],
+	"id": "b380c24d-c856-9e75-ca9a-00226ce841ba",
+	"layout": "",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Advanced - partial points",
+	"type": "page"
+}

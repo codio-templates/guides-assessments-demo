@@ -1,0 +1,23 @@
+{
+	"chapter": false,
+	"contentType": "markdown",
+	"files": [
+		{
+			"action": "close",
+			"path": "#tabs"
+		},
+		{
+			"action": "open",
+			"panel": 0,
+			"path": ".guides/content/Code-blocks---inserts-0f4f.md"
+		}
+	],
+	"id": "0f4f3d06-8a93-a2c7-fa15-154fa4a8c292",
+	"layout": "",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Code blocks \u0026 inserts",
+	"type": "page"
+}

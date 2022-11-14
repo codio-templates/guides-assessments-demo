@@ -1,0 +1,24 @@
+{
+	"chapter": true,
+	"contentType": "markdown",
+	"files": [
+		{
+			"action": "close",
+			"path": "#tabs"
+		}
+	],
+	"id": "7b35fd2c-e078-3e62-b81a-d9e5c042e867",
+	"layout": "",
+	"learningObjectives": "",
+	"order": [
+		"Standard-autograding---argument-095a",
+		"Standard-autograding---stdin-8da8",
+		"Advanced-autograding-5130",
+		"Advanced---partial-points-b380"
+	],
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Autograding code",
+	"type": "chapter"
+}

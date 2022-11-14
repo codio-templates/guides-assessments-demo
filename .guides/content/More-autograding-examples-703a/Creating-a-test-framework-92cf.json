@@ -1,0 +1,33 @@
+{
+	"chapter": false,
+	"contentType": "markdown",
+	"files": [
+		{
+			"action": "close",
+			"path": "#tabs"
+		},
+		{
+			"action": "open",
+			"panel": 0,
+			"path": "challenge2/Challenge.java"
+		},
+		{
+			"action": "open",
+			"panel": 1,
+			"path": "challenge2/testlib.sh"
+		},
+		{
+			"action": "open",
+			"panel": 1,
+			"path": "challenge2/framework-test.sh"
+		}
+	],
+	"id": "92cfd1ce-42e7-9a2c-a554-7e1e465bbfcc",
+	"layout": "3-cell-tree",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Creating a test framework",
+	"type": "page"
+}

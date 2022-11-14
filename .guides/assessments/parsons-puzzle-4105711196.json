@@ -1,0 +1,19 @@
+{
+	"source": {
+		"bloomsObjectiveLevel": "",
+		"grader": "2",
+		"guidance": "",
+		"initial": "$$toggle::x::y::z$$ = $$toggle::x::y::z$$ + $$toggle::x::y::z$$\n$$toggle::x::y::z$$ = $$toggle::x::y::z$$ - $$toggle::x::y::z$$\n$$toggle::x::y::z$$ = $$toggle::x::y::z$$ -$$toggle::x::y::z$$\n",
+		"instructions": "Construct a program that swaps the values of variables \u003ccode\u003ex\u003c/code\u003e and \u003ccode\u003ey\u003c/code\u003e using the\n  helper variable \u003ccode\u003ez\u003c/code\u003e. You can change the names of the variables (\u003cspan class=\"jsparson-toggle\"\u003e\u003c/span\u003e)\n  by clicking them.",
+		"learningObjectives": "",
+		"name": "variable 2",
+		"oneTimeTest": false,
+		"options": "{\n      \"sortableId\": \"sortable\",\n      \"trashId\": \"sortableTrash\",\n      \"vartests\": [{\"initcode\": \"x = 1\\ny=2\", \"code\": \"\", \"message\": \"Testing with initial variable values x = 1 and y = 2\", \"variables\": {\"z\": 3, \"x\": 2, \"y\": 1}},\n                   {\"initcode\": \"x = 3\\ny=4\\n\", \"code\": \"\", \"message\": \"Testing with initial variable values x = 3 and y = 4\", \"variables\": {\"z\": 7, \"x\": 4, \"y\": 3}}],\n      \"lang\": \"en\"\n    }",
+		"points": "10",
+		"showExpectedAnswer": false,
+		"showGuidanceAfterResponse": false,
+		"showName": true
+	},
+	"taskId": "parsons-puzzle-4105711196",
+	"type": "parsons-puzzle"
+}

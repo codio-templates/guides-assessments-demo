@@ -1,0 +1,36 @@
+{
+	"chapter": true,
+	"contentType": "markdown",
+	"files": [
+		{
+			"action": "close",
+			"path": "#tabs"
+		}
+	],
+	"id": "77be67cd-91d5-1b47-4769-2a3fbd854a60",
+	"layout": "1-panel",
+	"learningObjectives": "",
+	"order": [
+		"Basic-text-efb2",
+		"Bold--italic--underline-etc--9f91",
+		"More-text-things-5533",
+		"Run-buttons-4221",
+		"Tables-aad4",
+		"Callout-boxes-cb16",
+		"Mathematical-notation-fbfa",
+		"Code-blocks---inserts-0f4f",
+		"Collapsible-Content-d632",
+		"Links-5bdb",
+		"Images-536a",
+		"Videos-db8c",
+		"Lists-9ba2",
+		"Definition-lists-5775",
+		"Hover-text-a8f8",
+		"Horizontal-rules-7e15"
+	],
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Guide basics",
+	"type": "chapter"
+}

@@ -1,0 +1,45 @@
+{
+	"source": {
+		"bloomsObjectiveLevel": "",
+		"distractors": "",
+		"guidance": "",
+		"instructions": "Complete the definition.",
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Fill in the Blanks"
+				}
+			]
+		},
+		"name": "Fill in the blanks (show possible values)",
+		"points": 1,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": true,
+		"showValues": true,
+		"text": "A prime number (or a prime) is a \u003c\u003c\u003cnatural\u003e\u003e\u003e number greater than \u003c\u003c\u003c1\u003e\u003e\u003e that has no positive divisors other than \u003c\u003c\u003c1 and itself\u003e\u003e\u003e.",
+		"tokens": {
+			"blank": [
+				"natural",
+				"1",
+				"1 and itself"
+			],
+			"regexPositions": [],
+			"text": [
+				"A prime number (or a prime) is a ",
+				0,
+				" number greater than ",
+				0,
+				" that has no positive divisors other than ",
+				0,
+				"."
+			]
+		}
+	},
+	"taskId": "fill-in-the-blanks-4179884427",
+	"type": "fill-in-the-blanks"
+}

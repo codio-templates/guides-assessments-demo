@@ -1,0 +1,19 @@
+{
+	"source": {
+		"bloomsObjectiveLevel": "",
+		"grader": "1",
+		"guidance": "ANSWER AND RATIONALE TO STUDENT",
+		"initial": "print 'Hello'\nprint 'Parsons'\nprint 'problems!'",
+		"instructions": "Construct a program that prints Hello Parsons problems!",
+		"learningObjectives": "",
+		"name": "line based grader without indentation",
+		"oneTimeTest": false,
+		"options": "{\n                \"sortableId\": \"sortable\",\n                \"trashId\": \"sortableTrash\",\n                \"max_wrong_lines\": 1,\n                \"feedback_cb\" : \"displayErrors\",\n                \"can_indent\": false\n            }",
+		"points": "10",
+		"showExpectedAnswer": false,
+		"showGuidanceAfterResponse": false,
+		"showName": true
+	},
+	"taskId": "parsons-puzzle-2451163072",
+	"type": "parsons-puzzle"
+}

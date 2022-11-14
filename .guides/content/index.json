@@ -1,0 +1,21 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"Guide-basics-77be",
+		"Basic-autograded-assessments-3a1a",
+		"Autograding-code-7b35",
+		"More-autograding-examples-703a"
+	],
+	"protectLayout": false,
+	"scripts": [],
+	"suppressPageNumbering": false,
+	"theme": "light",
+	"title": "Demo Guides and Assessments",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true
+}

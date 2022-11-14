@@ -1,0 +1,13 @@
+{
+	"source": {
+		"arePartialPointsAllowed": false,
+		"command": "python challenge5/test.py challenge5/challenge5.c",
+		"instructions": "Write a program that receives two numeric arguments, a and b, and outputs a single string with the value \"Hello World \" + (a + b).",
+		"name": "test c with python",
+		"oneTimeTest": false,
+		"points": 10,
+		"showName": true
+	},
+	"taskId": "test-4112607060",
+	"type": "test"
+}

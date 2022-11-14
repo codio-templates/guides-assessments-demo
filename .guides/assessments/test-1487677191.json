@@ -1,0 +1,13 @@
+{
+	"source": {
+		"arePartialPointsAllowed": false,
+		"command": "challenge2/framework-test.sh",
+		"instructions": "Write a program that receives two numeric arguments, a and b, and outputs a single string with the value (a + b).",
+		"name": "test2",
+		"oneTimeTest": false,
+		"points": 1,
+		"showName": false
+	},
+	"taskId": "test-1487677191",
+	"type": "test"
+}
